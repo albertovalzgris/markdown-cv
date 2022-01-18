@@ -1,16 +1,15 @@
 ---
 layout: cv
-title: avalzgris CV
+title: albertovalzgris
 ---
 # Alberto Valz Gris
 
-(Urban geographer)
+Urban geographer
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
+<a href="albertovalzgris@gmail.com">albertovalzgris@gmail.com</a>
 | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
 </div>
-
 
 ## Currently
 
@@ -20,11 +19,9 @@ Post-doctoral Research Fellow, Polytechnic University of Turin
 
 Unequal exchange, urban extractivism and socioecological inequalities.
 
-
 ### Research interests
 
 My research investigates […]
-
 
 ## Education
 
@@ -40,8 +37,6 @@ __Trinity College, Cambridge__
 __Trinity College, Cambridge__
 
 - Fellow
-
-
 
 ## Awards
 
