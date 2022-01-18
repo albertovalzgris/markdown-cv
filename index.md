@@ -90,16 +90,16 @@ __Lucasian professor of Mathematics__, Cambridge University
 
 ## Languages
 
-**Italian** mother tongue
-**English** excellent
-**French** excellent
-**Spanish** good
+**Italian** mother tongue  
+**English** excellent  
+**French** excellent  
+**Spanish** good  
 
 ## Software
 
-**Code** Latex, markdown, html
-**Office** Word, Excel, Powerpoint
-**Adbode** InDesign, Illustrator, Photoshop, Premiere
+**Code** Latex, markdown, html  
+**Office** Word, Excel, Powerpoint  
+**Adbode** InDesign, Illustrator, Photoshop, Premiere  
 
 
 
