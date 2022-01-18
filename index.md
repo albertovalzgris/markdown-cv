@@ -4,6 +4,12 @@ title: albertovalzgris
 ---
 # Alberto Valz Gris
 
+Interuniversity Department of Regional and Urban Studies and Planning	
+Polytechnic University of Turin
+viale Mattioli 39
+10125 Torino
+Italy
+
 <!--Urban geographer-->
 
 <div id="webaddress">
