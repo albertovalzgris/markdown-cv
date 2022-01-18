@@ -62,7 +62,7 @@ A list is also available [online](http://scholar.google.co.uk/citations?user=LTO
 ### Journal articles
 
 `2022`
-Valz Gris, A., Iacovone, C., Safina, A., Pollio, A., Governa, F. Il 'campo' geografico di un'etnografia sottile. **Rivista Geografica Italiana, 0**(0), 0-0.
+Valz Gris, A., Iacovone, C., Safina, A., Pollio, A., Governa, F. Il 'campo' geografico di un'etnografia sottile. *Rivista Geografica Italiana, 0*(0), 0-0.
 
 ### Book chapters
 
