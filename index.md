@@ -30,62 +30,48 @@ My research investigates […]
 ## Education
 
 `2017-2021`
-__Ph.D. in Urban and Regional Development, Polytechnic University of Turin__
+**Ph.D. in Urban and Regional Development**, Cum laude  
+Thesis: Hinterlands of the Green Transition. Atacama, Lithium and the Extended Geographies of the Zero-emission City  
+*Polytechnic University of Turin*, Italy
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`2014-2016`
+**MA in Fine Arts**  
+*Sandberg Instituut, Amsterdam*, The Netherlands
 
 ## Research 
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+`2021`
+**Dream Story. Urban modernity through Italy and China**  
+Department of Regional and Urban Studies (DIST), Polytechnic University of Turin  
+*Research assistant. Principal investigator: prof. F. Governa*.  
+The project forms part of the activities financed by the PRIN project Rescaling the Belt and Road Initiative: urbanisation processes, innovation patterns and global investments in urban China, and consists in the design and production of an international exhibition and a multi- media catalog on the theme of urban modernities. Drawing on an openly comparative approach to patterns of urbanization, this research explores the emergence of multiple urban moderni- ties by observing them through two apparently unrelated waves of urbanization: that of postwar Italy and that of contemporary China. My involvement in the project consists in supporting the curatorial team by critically selecting case studies and producing both theoretical, archival and field-based research on the driving themes of the exhibition.
 
 
 ## Teaching
 
+`2020-2021`
+**Fattori ambientali e geografici dello sviluppo del territorio**  
+Department of Regional and Urban Studies (DIST), Polytechnic University of Turin  
+*Teaching assistant. Course held by prof. M. Santangelo*.  
+Activities completed in this course have consisted in sessions of territorial analysis highlighting the role of physical geography in shaping patterns of urbanization and the making of moving- image materials across the design site for supporting the students’ activities.
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ)
 
-### Papers
+### Journal articles
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+`2022`
+Valz Gris, A., Iacovone, C., Safina, A., Pollio, A., Governa, F. Il 'campo' geografico di un'etnografia sottile. *Rivista Geografica Italiana, 0*(0), 0-0.
 
-`1669`
-Lectiones opticæ.
+### Book chapters
 
-etc. etc. etc.
+### Book reviews
 
-### Chapters
+`2020`
+Valz Gris, A. City air beyond the city: Can the planetary mine lead us to emancipatory urban futures? *City, 24*(5-6), 865–870. doi.org/10.1080/13604813.2020.1833547
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-### Reviews
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-### Other
-
+### Public writing
 
 ## Languages
 
