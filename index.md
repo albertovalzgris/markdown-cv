@@ -14,10 +14,10 @@ title: albertovalzgris
 ## Currently
 
 **Post-doctoral Research Fellow**
-Interuniversity Department of Regional and Urban Studies and Planning	
-Polytechnic University of Turin
-viale Mattioli 39
-10125 Torino
+Interuniversity Department of Regional and Urban Studies and Planning  
+Polytechnic University of Turin  
+viale Mattioli 39  
+10125 Torino  
 Italy
 
 ### Specialized in
