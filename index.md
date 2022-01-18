@@ -4,7 +4,7 @@ title: albertovalzgris
 ---
 # Alberto Valz Gris
 
-(Urban geographer)
+Urban geographer
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
