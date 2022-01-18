@@ -4,7 +4,7 @@ title: albertovalzgris
 ---
 # Alberto Valz Gris
 
-Urban geographer
+<!--Urban geographer-->
 
 <div id="webaddress">
 <a href="albertovalzgris@gmail.com">albertovalzgris@gmail.com</a>
@@ -80,8 +80,8 @@ __Lucasian professor of Mathematics__, Cambridge University
 
 
 
-<!-- ### Footer
+### Footer
 
-Last updated: May 2013 -->
+Last updated: \today
 
 
