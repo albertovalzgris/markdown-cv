@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: avalzgris CV
+title: albertovalzgris
 ---
 # Alberto Valz Gris
 
