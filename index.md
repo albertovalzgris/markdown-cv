@@ -101,9 +101,9 @@ __Lucasian professor of Mathematics__, Cambridge University
 **Office** Word, Excel, Powerpoint  
 **Adbode** InDesign, Illustrator, Photoshop, Premiere  
 
-p {
-    margin-bottom: 3cm;
-}
+<br>
+<br>
+<br>
 
 Last updated: 18/01/2022
 
