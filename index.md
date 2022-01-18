@@ -8,8 +8,7 @@ title: albertovalzgris
 
 <div id="webaddress">
 <a href="albertovalzgris@gmail.com">albertovalzgris@gmail.com</a>
-| <a href="https://twitter.com/albertovalzgris">Twitter</a>
-</div> | <a href="https://linktr.ee/albertovalzgris">Linktree </a>
+| <a href="https://twitter.com/albertovalzgris">Twitter</a> | <a href="https://linktr.ee/albertovalzgris">Linktree </a> </div> 
 
 ## Currently
 
