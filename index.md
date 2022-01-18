@@ -1,9 +1,10 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: avalzgris CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Alberto Valz Gris
+
+(Urban geographer)
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
@@ -13,22 +14,22 @@ Physicist, Mathematician, Cambridge professor.
 
 ## Currently
 
-Standing on the shoulders of giants
+Post-doctoral Research Fellow, Polytechnic University of Turin
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Unequal exchange, urban extractivism and socioecological inequalities.
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+My research investigates […]
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2017-2021`
+__Ph.D. in Urban and Regional Development, Polytechnic University of Turin__
 
 `June 1661 - now`
 __Trinity College, Cambridge__
