@@ -21,11 +21,11 @@ Italy
 
 ### Specialized in
 
-Unequal exchange, urban extractivism and socioecological inequalities.
+Extended urbanization, geographies of production, green extractivism, commodity chain analysis, relational ethnography.
 
 ### Research interests
 
-My research investigates […]
+I am an urban geographer working at the intersection of heterodox economic geography and urban political ecology. My research investigates emerging patterns of urbanization through the shifting geographies of production. As such, my main research interests are rooted in the dynamics of extended urbanization, in the geographies of natural resource extraction and logistical reconfiguration, and in their associated socioecological shifts.
 
 ## Education
 
@@ -62,14 +62,14 @@ Thesis: Osservare dal Parco. Un Progetto di Trasformazione per il Parco del Meis
 **SUR: città del sud Europa e Global Urbanism**  
 Department of Regional and Urban Studies (DIST), Polytechnic University of Turin  
 *Post-doctoral research fellow*. Principal investigator: prof. F. Governa  
-Il programma di ricerca ha l'obiettivo di costruire un dialogo fra il dibattito internazionale sul Global Urbanism e l'esperienza urbana del Sud Europa. Il Global Urbanism è un campo di ricerca emergente che intende costruire una conoscenza urbana critica a partire dal riconoscimento delle differenze urbane e del loro continuo mutamento. Tale campo di ricerca è quindi un dialogo tra differenze che tiene insieme le specificità dei singoli luoghi e la generalizzazione delle questioni che essi consentono di svelare in un orizzonte globale. Le principali attività di ricerca svolte all'interno del progetto consistono nell'analisi critica della letteratura esistente, nell'impostazione e selezione di tre studi di caso e nello svolgimento di alcuni periodi di lavoro sul campo.  
+This research program, financed by the PRIN project "Rescaling the Belt and Road Initiative: urbanisation processes, innovation patterns and global investments in urban China", seeks to construct a dialogue between the international debate on Global Urbanism and the urban experience of Southern Europe. Global Urbanism emerges as the attempt to build critical urban knowledge starting from the grounded acknowledgment of differences and their continuous mutations. Through this project, we propose to explore the question of a global urban horizon starting from the specificities and differences of various Southern European urban experiences, hence attempting theory building from peripheral loci. In its initial phases, the program will consist in the critical analysis of existing research, in a selection of three case studies and in their subsequent exploration through short fieldwork periods.
 <br>
 
 `2022-currently`
 **I paesaggi operazionali nel Nord Italia. Geografie mobili, strategie spaziali e mappe dinamiche dell’urbanizzazione regionale**  
 Department of Architecture and Urban Studies (DAStU), Polytechnic University of Milan  
 *Research consultant*. Principal investigator: prof. S. Armondi  
-Come stanno cambiando i territori di produzione, scambio e supporto alle grandi concentrazioni e dispersioni dell’urbanizzazione regionale a seguito delle recenti crisi globali? Come tracciarne le geografie, le strategie spaziali, gli attori e i poteri emergenti in un quadro di accelerata programmazione e di crescente complessità? La ricerca individua in alcune tipologie di “paesaggi operazionali” una categoria fertile per osservare le trasformazioni in atto nei territori della produzione attraverso un approccio “mobile” (interdisciplinare, transcalare, di interazione con policy-maker e stakeholder) e con tre obiettivi: (1) rintracciare le geografie economiche emergenti, aggiornandone letture interpretative, restituzioni cartografiche e misurandosi con strategie esplicite e implicite di dilatazione dell’urbano; (2) figurare la pluralità di contesti e assetti in relazione alle politiche e alle strategie spaziali avviate da attori diversificati (istituzionali ed economici); (3) produrre evidenze e rappresentazioni spaziali efficaci per policy-maker e stakeholder in grado di accompagnare i processi decisionali in relazione alle nuove politiche e strategie di transizione ecologica. Per rafforzare il ruolo del DAStU nel dibattito scientifico nazionale e internazionale, la ricerca propone come focus applicativo per possibili comparazioni internazionali il territorio del Nord Italia, caratterizzato da scalarità composite e dinamiche differenziate di trasformazione.  
+Which dynamics are reconfiguring those territories of production, circulation and support that exists in relation to large urban concentrations? This project—enabled by funding for original research by the Polytechnic University of Milan—critically investigates the geographies of operational landscapes in Northern Italian regions with three main goals. Firstly, it aims at tracing emergent economic geographies by updating their interpretive frameworks, cartographic representations and challenging impending urban dynamics. Secondly, it seeks to describe the plurality of policies, actors and strategies that remake urban contexts and territorial configurations; thirdly, it proposes to build evidence and spatial representations that support the activity of planners and policymakers with respect to the shifting dynamics of global production. In its initial phases, the project involves quantitative modeling, spot cartographic analysis and semi-structured interviews as a focus on case studies spanning the width of Northern Italian regions.
 <br>
 
 `2021`
@@ -106,14 +106,14 @@ Activities completed in this course have consisted in sessions of territorial an
 **Urban Studies**  
 Department of Regional and Urban Studies (DIST), Polytechnic University of Turin  
 *Guest lecturer*. Course held by prof. F. Governa  
-This guest lecture for master students in Architecture focused on the planetary dimension of urbanization patterns, covering debates on city-country relations, urban metabolism and ex- tended urbanization through the reconstruction of theoretical lineages and the analysis of empirical case studies.  
+This guest lecture for master students in Architecture focused on the planetary dimension of urbanization patterns, covering debates on city-country relations, urban metabolism and extended urbanization through the reconstruction of theoretical lineages and the analysis of empirical case studies.  
 <br>
 
 `2019-2020`
 **Urban Studies**  
 Department of Regional and Urban Studies (DIST), Polytechnic University of Turin  
 *Teaching assistant*. Course held by prof. F. Governa  
-This guest lecture for master students in Architecture focused on the planetary dimension of urbanization patterns, covering debates on city-country relations, urban metabolism and ex- tended urbanization through the reconstruction of theoretical lineages and the analysis of empirical case studies.  
+This guest lecture for master students in Architecture focused on the planetary dimension of urbanization patterns, covering debates on city-country relations, urban metabolism and extended urbanization through the reconstruction of theoretical lineages and the analysis of empirical case studies.  
 <br>
 
 `2018-2019`
