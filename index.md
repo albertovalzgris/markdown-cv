@@ -58,14 +58,14 @@ Thesis: Osservare dal Parco. Un Progetto di Trasformazione per il Parco del Meis
 
 ## Research 
 
-`2022-currently`
+`2022-now`
 **SUR: città del sud Europa e Global Urbanism**  
 Department of Regional and Urban Studies (DIST), Polytechnic University of Turin  
 *Post-doctoral research fellow*. Principal investigator: prof. F. Governa  
 This research program, financed by the PRIN project "Rescaling the Belt and Road Initiative: urbanisation processes, innovation patterns and global investments in urban China", seeks to construct a dialogue between the international debate on Global Urbanism and the urban experience of Southern Europe. Global Urbanism emerges as the attempt to build critical urban knowledge starting from the grounded acknowledgment of differences and their continuous mutations. Through this project, we propose to explore the question of a global urban horizon starting from the specificities and differences of various Southern European urban experiences, hence attempting theory building from peripheral loci. In its initial phases, the program will consist in the critical analysis of existing research, in a selection of three case studies and in their subsequent exploration through short fieldwork periods.
 <br>
 
-`2022-currently`
+`2022-now`
 **I paesaggi operazionali nel Nord Italia. Geografie mobili, strategie spaziali e mappe dinamiche dell’urbanizzazione regionale**  
 Department of Architecture and Urban Studies (DAStU), Polytechnic University of Milan  
 *Research consultant*. Principal investigator: prof. S. Armondi  
