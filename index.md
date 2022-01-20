@@ -128,21 +128,39 @@ My involvement in this course consisted in completing design crits with BA level
 
 ## Publications
 
-A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ)
+A list is also available [online](https://iris.polito.it/browse?type=author&authority=rp19928&authority_lang=en).
 
 ### Journal articles
 
 `2022`
 Valz Gris, A., Iacovone, C., Safina, A., Pollio, A., Governa, F. Il 'campo' geografico di un'etnografia sottile. *Rivista Geografica Italiana, 0*(0), 0-0.
 
+`2021`
+Iacovone, C., Valz Gris, A., Safina, A., Pollio, A., Governa, F. Breaking the distance: Dialogues of care in a time of limited geographies. *Dialogues in Human Geography, 102*(2), 124-127. DOI: 10.1177/2043820620934940
+
+`2019`
+Valz Gris, A. Tangling a bi-oceanic corridor. *Lo Squaderno, 51*, 17-20.
+
 ### Book chapters
+
+`2020`
+Valz Gris, A. Logistica e urbanizzazione: Uno sguardo dal corridoio bi-oceanico. In Benvegnù, C., Cuppini, N., Frapporti, M., Milesi, F., Pirone, M. *Logistica e America Latina*. Bologna: Dipartimento delle Arti, Università di Bologna.
+
+`2019`
+Valz Gris, A. Appunti su città e piattaforma. Dentro e oltre la metafora. In *Il Campo di Battaglia Urbano*. Roma: Red Star Press.
+
+`2018`
+Valz Gris, A. Lavoro, spazio, movimenti. Mobilitare l'urbano dentro e oltre il capitalismo delle piattaforme. In Zaar, M., Capel, H. *Las Ciencias Sociales y la Edificación de una Sociedad Postcapitalista*. Barcelona: Universidad de Barcelona/Geocrítica.
 
 ### Book reviews
 
 `2020`
-Valz Gris, A. City air beyond the city: Can the planetary mine lead us to emancipatory urban futures? *City, 24*(5-6), 865–870. doi.org/10.1080/13604813.2020.1833547
+Valz Gris, A. City air beyond the city: Can the planetary mine lead us to emancipatory urban futures? *City, 24*(5-6), 865–870. DOI: 10.1080/13604813.2020.1833547
 
 ### Public writing
+
+`2020`
+Valz Gris, A., Iacovone, C. Il virus è un prodotto del Capitalocene. *Jacobin Italia*. Available at https://bit.ly/3Kw8yua
 
 ## Languages
 
@@ -161,6 +179,6 @@ Valz Gris, A. City air beyond the city: Can the planetary mine lead us to emanci
 <br>
 <br>
 
-Last updated: 18/01/2022
+Last updated: 20/01/2022
 
 
