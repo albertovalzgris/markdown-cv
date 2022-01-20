@@ -15,8 +15,8 @@ Forked from [Eliseo Papa's original](http://elipapa.github.io/markdown-cv).
 1. Edit `index.md` in local editor
 1. Push to branch `gh-pages` typing `git push origin gh-pages`
 1. See output on [github](https://albertovalzgris.github.io/markdown-cv/)
-1. Print pdf by typing `wkhtmltopdf https://albertovalzgris.github.io/markdown-cv/ output/avg-cv-eng.pdf`
-1. Export black&white version through Preview.
+1. Print pdf by typing `wkhtmltopdf -g https://albertovalzgris.github.io/markdown-cv/ output/avg-cv-eng.pdf`
+1. Merge `gh-pages` into `master`?
 1. Done!
 
 ### Author
