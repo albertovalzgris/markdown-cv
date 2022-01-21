@@ -143,14 +143,6 @@ A list is also available [online](https://iris.polito.it/browse?type=author&auth
 
 ### Journal articles
 
-<!--
-`2022`
-Valz Gris, A.
-
-`2022`
-Valz Gris, A.
--->
-
 `2022`
 Valz Gris, A., Iacovone, C., Safina, A., Pollio, A., Governa, F. Il 'campo' geografico di un'etnografia sottile. *Rivista Geografica Italiana, 0*(0), 0-0.
 
@@ -172,10 +164,6 @@ Valz Gris, A. Appunti su città e piattaforma. Dentro e oltre la metafora. In *I
 Valz Gris, A. Lavoro, spazio, movimenti. Mobilitare l'urbano dentro e oltre il capitalismo delle piattaforme. In Zaar, M., Capel, H. *Las Ciencias Sociales y la Edificación de una Sociedad Postcapitalista*. Barcelona: Universidad de Barcelona/Geocrítica.
 
 ### Book reviews
-
-<!--
-`2022`
-Valz Gris, A. The Politics of Precarity: Spaces of Extractivism, Violence, and Suffering. *Antipode, 0*(0), 0-0. DOI:-->
 
 `2020`
 Valz Gris, A. City air beyond the city: Can the planetary mine lead us to emancipatory urban futures? *City, 24*(5-6), 865–870. DOI: 10.1080/13604813.2020.1833547
