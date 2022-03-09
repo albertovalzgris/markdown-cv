@@ -13,6 +13,8 @@ Forked from [Eliseo Papa's original](http://elipapa.github.io/markdown-cv).
 1. `cd` into repository
 1. Switch to `gh-pages` branch
 1. Edit `index.md` in local editor
+1. `git add .`
+1. `git cm -m "message"`
 1. Push to branch `gh-pages` typing `git push origin gh-pages`
 1. See output on [github](https://albertovalzgris.github.io/markdown-cv/)
 1. Print pdf by typing `wkhtmltopdf -g https://albertovalzgris.github.io/markdown-cv/ output/avg-cv-eng.pdf`

@@ -2,7 +2,7 @@
 layout: cv
 title: albertovalzgris
 ---
-# Slberto Valz Gris
+# Alberto Valz Gris
 
 <!--Urban geographer-->
 
@@ -14,7 +14,7 @@ title: albertovalzgris
 
 **Post-doctoral Research Fellow**  
 Interuniversity Department of Regional and Urban Studies and Planning  
-Polytechnic University of Turin  
+Politecnico di Torino
 viale Mattioli 39  
 10125 Torino  
 Italy
@@ -172,6 +172,13 @@ Valz Gris, A. City air beyond the city: Can the planetary mine lead us to emanci
 
 `2020`
 Valz Gris, A., Iacovone, C. Il virus è un prodotto del Capitalocene. *Jacobin Italia*. Available at https://bit.ly/3Kw8yua
+
+## Conference presentations and invited talks
+
+`2021`
+**Hinterlands of the Green Transition**  
+Paper presentation. *EXALT Conference 2021 - Concurrent Crises and Sustainable Futures: Global Extractivisms and Alternatives*. Helsinki, Finland (online).
+<br>
 
 ## Languages
 
