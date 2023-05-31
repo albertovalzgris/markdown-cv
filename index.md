@@ -14,7 +14,7 @@ title: albertovalzgris
 
 **Post-doctoral Research Fellow**  
 Interuniversity Department of Regional and Urban Studies and Planning  
-Politecnico di Torino
+Politecnico di Torino  
 viale Mattioli 39  
 10125 Torino  
 Italy
