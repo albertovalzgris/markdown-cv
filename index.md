@@ -103,7 +103,7 @@ This research was commissioned by Compagnia di San Paolo with the goal of invest
 
 `2022-2023`
 **Socially Engaged Art Winter Project**  
-Accademia Unidee, Biella and ArtEZ Academy, Arnhem
+Accademia Unidee, Biella and ArtEZ Academy, Arnhem  
 *Course leader*  
 This academic year, the annual exchange with MA Fine Arts students of the ArtEZ academy explored the theme of the Mediterranean as an imagined geography, as a represented and contested space. Coordinating the didactic environment of a mixed group of BA and MA students in Biella involved giving group lectures and individual project development tutorials, culminating in a collective exhibition during ArtEZ Project Festival in the city of Arhnem.
 
