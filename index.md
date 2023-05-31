@@ -69,7 +69,7 @@ This research program, financed by the PRIN project "Rescaling the Belt and Road
 **Umru: Fragments from the Hydrosocial Cycle of Valle Umbra**  
 Mahler & LeWitt Studios Residency, Spoleto  
 *Geographer in residence*.  
-This project is developed in collaboration with visual artist Cecilia Ceccherini and as part of Mahler and LeWitt Studios' Materia program. As a collaborative practice bridging geography with the visual arts, the projects maps an embodied and effective exploration of water assemblages of the Valle Umbra, asking how we might reinvent hydrosocial territories and shape them towards a more conscious and environmentally just future. Working in the form of text, sound and textile, The results of this research will be presented in June 2024 as part of Spoleto's Festival dei Due Mondi through an exhibition and an associated independent publication.
+This project is developed in collaboration with visual artist Cecilia Ceccherini and part of Mahler and LeWitt Studios' Materia program. As a collaborative practice bridging geography with the visual arts, the projects maps an embodied and effective exploration of water assemblages of the Valle Umbra, asking how we might reinvent hydrosocial territories and shape them towards a more conscious and environmentally just future. Working in the form of text, sound and textile, the results of this research will be presented in June 2024 as part of Spoleto's Festival dei Due Mondi through an exhibition and an associated independent publication.
 
 `2022`
 **I paesaggi operazionali nel Nord Italia. Geografie mobili, strategie spaziali e mappe dinamiche dell’urbanizzazione regionale**  
@@ -103,15 +103,15 @@ This research was commissioned by Compagnia di San Paolo with the goal of invest
 
 `2022-2023`
 **Socially Engaged Art Winter Project**  
-Accademia Unidee, Biella  
+Accademia Unidee, Biella and ArtEZ Academy, Arnhem
 *Course leader*  
-The annual exchange with MA Fine Arts students of the ArtEZ involved coordinating their didactic environment in Biella by giving group lectures and individual tutorials, culminating in a collective exhibition during ArtEZ Project Festival in Arhnem (NL).
+This academic year, the annual exchange with MA Fine Arts students of the ArtEZ academy explored the theme of the Mediterranean as an imagined geography, as a represented and contested space. Coordinating the didactic environment of a mixed group of BA and MA students in Biella involved giving group lectures and individual project development tutorials, culminating in a collective exhibition during ArtEZ Project Festival in the city of Arhnem.
 
 `2022-2023`
 **Tecniche di rappresentazione dello spazio**  
-Accademia Unide, Biella  
+Accademia Unidee, Biella  
 *Course leader*  
-Teaching this semester-long course to first-year BA students in Fine Arts for the Environment involved planning and giving lectures on the fundamentals of cartography, photography and sketching, followed by tutorials on the development of an individual project. Exams consisted in the making of an exhibition showing the work developed throughout the course. 
+Teaching this semester-long course to first-year BA students in Fine Arts for the Environment involved designing the course syllabus, planning and giving lectures on the fundamentals of cartography, photography and sketching, followed by tutorials on the development of an individual project. Finals exams consisted in the making of an exhibition showing the work developed throughout the course. 
 
 `2020-2021`
 **Fattori ambientali e geografici dello sviluppo del territorio**  
@@ -194,7 +194,7 @@ Valz Gris, A., Iacovone, C. Il virus è un prodotto del Capitalocene. *Jacobin I
 ## Presentations
 
 `2023`
-**Enclaves and borders. A walking Ethnography of Silk Road urbanisation in Piraeus, Greece**  
+**Enclaves and borders. A walking ethnography of Silk Road urbanisation in Piraeus, Greece**  
 Paper presentation. *Silk road Cities and Beyond International Workshop*. Barcelona, Spain.
 <br>
 
@@ -205,7 +205,7 @@ Paper presentation. *The 10th East Asian Regional Conference in Alternative Geog
 
 `2022`
 **On the shores of tidal development. A grounded analysis of the Belt and Road Initiative in Piraeus, Greece**  
-Workshop presentation. *Comparative dialogues on the infrastructure-led urbanization of Global China*. Malmo, Sweden.
+Workshop presentation. *Comparative dialogues on the infrastructure-led urbanization of Global China*. Malmö, Sweden.
 <br>
 
 `2022`
