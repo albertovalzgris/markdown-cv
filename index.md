@@ -66,9 +66,9 @@ This research program, financed by the PRIN project "Rescaling the Belt and Road
 <br>
 
 `2022-now`
-**Umru: Fragments from the Hydrosocial Cycle of Valle Umbra**
-Mahler & LeWitt Studios Residency, Spoleto
-*Geographer in residence*.
+**Umru: Fragments from the Hydrosocial Cycle of Valle Umbra**  
+Mahler & LeWitt Studios Residency, Spoleto  
+*Geographer in residence*.  
 This project is developed in collaboration with visual artist Cecilia Ceccherini and as part of Mahler and LeWitt Studios' Materia program. As a collaborative practice bridging geography with the visual arts, the projects maps an embodied and effective exploration of water assemblages of the Valle Umbra, asking how we might reinvent hydrosocial territories and shape them towards a more conscious and environmentally just future. Working in the form of text, sound and textile, The results of this research will be presented in June 2024 as part of Spoleto's Festival dei Due Mondi through an exhibition and an associated independent publication.
 
 `2022`
@@ -101,16 +101,16 @@ This research was commissioned by Compagnia di San Paolo with the goal of invest
 
 ## Teaching
 
-'2022-2023'
-**Socially Engaged Art Winter Project**
-Accademia Unidee, Biella
-*Course leader*
+`2022-2023`
+**Socially Engaged Art Winter Project**  
+Accademia Unidee, Biella  
+*Course leader*  
 The annual exchange with MA Fine Arts students of the ArtEZ involved coordinating their didactic environment in Biella by giving group lectures and individual tutorials, culminating in a collective exhibition during ArtEZ Project Festival in Arhnem (NL).
 
-'2022-2023'
-**Tecniche di rappresentazione dello spazio**
-Accademia Unide, Biella
-*Course leader*
+`2022-2023`
+**Tecniche di rappresentazione dello spazio**  
+Accademia Unide, Biella  
+*Course leader*  
 Teaching this semester-long course to first-year BA students in Fine Arts for the Environment involved planning and giving lectures on the fundamentals of cartography, photography and sketching, followed by tutorials on the development of an individual project. Exams consisted in the making of an exhibition showing the work developed throughout the course. 
 
 `2020-2021`
@@ -193,23 +193,23 @@ Valz Gris, A., Iacovone, C. Il virus è un prodotto del Capitalocene. *Jacobin I
 
 ## Presentations
 
-'2023'
-**Enclaves and borders. A walking Ethnography of Silk Road urbanisation in Piraeus, Greece**
+`2023`
+**Enclaves and borders. A walking Ethnography of Silk Road urbanisation in Piraeus, Greece**  
 Paper presentation. *Silk road Cities and Beyond International Workshop*. Barcelona, Spain.
 <br>
 
-'2022'
-**Questioning Asian urbanism: grounding the Belt and Road Initiative in Piraeus, Greece**
+`2022`
+**Questioning Asian urbanism: grounding the Belt and Road Initiative in Piraeus, Greece**  
 Paper presentation. *The 10th East Asian Regional Conference in Alternative Geography*. Taipei, Taiwan (online).
 <br>
 
-'2022'
-**On the shores of tidal development. A grounded analysis of the Belt and Road Initiative in Piraeus, Greece**
+`2022`
+**On the shores of tidal development. A grounded analysis of the Belt and Road Initiative in Piraeus, Greece**  
 Workshop presentation. *Comparative dialogues on the infrastructure-led urbanization of Global China*. Malmo, Sweden.
 <br>
 
-'2022'
-**Infrastructural afterlives. Genealogies of corridor urbanism in the making of the Lithium Triangle**
+`2022`
+**Infrastructural afterlives. Genealogies of corridor urbanism in the making of the Lithium Triangle**  
 Invited seminar. *Urbanism + Landscape Week 2022 - Calibrating Thresholds*. Delft, The Netherlands.
 <br>
 
