@@ -11,6 +11,10 @@ author: avalzgris
 
 # Publications
 
+- [ ] Geoforum 2023
+- [ ] Territorio 2023
+- [ ] Memorie Geografiche 2022
+
 # Teaching
 
 - [x] 2023, *Project leader*, Accademia Unidee,  Corso di Socially Engaged Art Winter Project
