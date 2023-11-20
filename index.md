@@ -187,7 +187,7 @@ Valz Gris, A. Appunti su città e piattaforma. Dentro e oltre la metafora. In *I
 ### Conference proceedings
 
 `2022`
-Valz Gris, A. Il paesaggio operazionale del Salar de Olaroz (Argentina): Diseguaglianze e conflitti spaziali delle catene globali del valore. In Amato, F., Amato, V., de Falco, S. La Foresta, D. Simonetti, L. (a cura di), *Catene/Chains, Memorie geografiche NS 21 *, Firenze: Società di Studi Geografici. pp. 43-48.
+Valz Gris, A. Il paesaggio operazionale del Salar de Olaroz (Argentina): Diseguaglianze e conflitti spaziali delle catene globali del valore. In Amato, F., Amato, V., de Falco, S. La Foresta, D. Simonetti, L. (a cura di), *Catene/Chains, Memorie Geografiche*, Firenze: Società di Studi Geografici. pp. 43-48.
 
 `2018`
 Valz Gris, A. Lavoro, spazio, movimenti. Mobilitare l'urbano dentro e oltre il capitalismo delle piattaforme. In Zaar, M., Capel, H. *Las Ciencias Sociales y la Edificación de una Sociedad Postcapitalista*. Barcelona: Universidad de Barcelona/Geocrítica.
