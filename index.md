@@ -19,9 +19,9 @@ viale Mattioli 39
 10125 Torino  
 Italy
 
-### Specialized in
+<!--### Specialized in
 
-Extended urbanization, geographies of production, green extractivism, commodity chain analysis, relational ethnography.
+Extended urbanization, geographies of production, green extractivism, commodity chain analysis, relational ethnography.-->
 
 ### Research interests
 
@@ -161,8 +161,14 @@ A list is also available [online](https://iris.polito.it/browse?type=author&auth
 
 ### Journal articles
 
+`forthcoming`
+Valz Gris, A. Beyond the boom. Genealogies of corridor urbanism in the making of the Lithium Triangle, Argentina and Chile. *Geoforum, 147*.
+
 `2022`
-Valz Gris, A., Iacovone, C., Safina, A., Pollio, A., Governa, F. Il 'campo' geografico di un'etnografia sottile. *Rivista Geografica Italiana, 0*(0), 0-0.
+Valz Gris, A. COSCO e l’urbanizzazione ‘turbolenta’ del porto del Pireo. *Territorio (103)*, 31-36. https://doi.org/10.3280/TR2022-103\*\**
+
+`2022`
+Valz Gris, A., Iacovone, C., Safina, A., Pollio, A., Governa, F. Il 'campo' geografico di un'etnografia sottile. *Rivista Geografica Italiana - Open Access*, (1). https://doi.org/10.3280/rgioa1-2022oa13364
 
 `2021`
 Iacovone, C., Valz Gris, A., Safina, A., Pollio, A., Governa, F. Breaking the distance: Dialogues of care in a time of limited geographies. *Dialogues in Human Geography, 102*(2), 124-127. DOI: 10.1177/2043820620934940
@@ -177,6 +183,11 @@ Valz Gris, A. Logistica e urbanizzazione: Uno sguardo dal corridoio bi-oceanico.
 
 `2019`
 Valz Gris, A. Appunti su città e piattaforma. Dentro e oltre la metafora. In *Il Campo di Battaglia Urbano*. Roma: Red Star Press.
+
+### Conference proceedings
+
+`2022`
+Valz Gris, A. Il paesaggio operazionale del Salar de Olaroz (Argentina): Diseguaglianze e conflitti spaziali delle catene globali del valore. In Amato, F., Amato, V., de Falco, S. La Foresta, D. Simonetti, L. (a cura di), *Catene/Chains, Memorie geografiche NS 21 *, Firenze: Società di Studi Geografici. pp. 43-48.
 
 `2018`
 Valz Gris, A. Lavoro, spazio, movimenti. Mobilitare l'urbano dentro e oltre il capitalismo delle piattaforme. In Zaar, M., Capel, H. *Las Ciencias Sociales y la Edificación de una Sociedad Postcapitalista*. Barcelona: Universidad de Barcelona/Geocrítica.

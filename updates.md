@@ -11,9 +11,9 @@ author: avalzgris
 
 # Publications
 
-- [ ] Geoforum 2023
-- [ ] Territorio 2023
-- [ ] Memorie Geografiche 2022
+- [x] Geoforum 2023
+- [x] Territorio 2023
+- [x] Memorie Geografiche 2022
 
 # Teaching
 
