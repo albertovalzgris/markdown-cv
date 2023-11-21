@@ -99,6 +99,59 @@ Department of Architecture and Design (DAD), Politecnico di Torino
 This research was commissioned by Compagnia di San Paolo with the goal of investigating scenarios of adaptive reuse for the Cittadella di Alessandria, a military complex dating to the second half of the Seventeenth century, beyond its current state of under-utilization. The involvement of my expertise in the project consists in the spatial analysis of existing architectural structures and a qualitative survey around the existing use strategies of the Cittadella as an architectural and environmental complex. The latter has involved the organization and fulfillment of a short ethnographic program that worked as a springboard for designing scenarios of adaptive reuse.  
 <br>
 
+## Publications
+
+A list is also available [online](https://iris.polito.it/browse?type=author&authority=rp19928&authority_lang=en).
+
+### Journal articles
+
+`forthcoming`
+Valz Gris, A. Beyond the boom. Genealogies of corridor urbanism in the making of the Lithium Triangle, Argentina and Chile. *Geoforum*. Online first.
+
+`forthcoming`
+Valz Gris, A. COSCO e l’urbanizzazione ‘turbolenta’ del porto del Pireo. *Territorio* (103), 31-36. https://doi.org/10.3280/TR2022-103\*\**
+
+`2022`
+Valz Gris, A., Iacovone, C., Safina, A., Pollio, A., Governa, F. Il 'campo' geografico di un'etnografia sottile. *Rivista Geografica Italiana - Open Access, 1*(1), 5-31. https://doi.org/10.3280/rgioa1-2022oa13364
+
+`2021`
+Iacovone, C., Valz Gris, A., Safina, A., Pollio, A., Governa, F. Breaking the distance: Dialogues of care in a time of limited geographies. *Dialogues in Human Geography, 102*(2), 124-127. https://doi.org/10.1177/2043820620934940
+
+`2019`
+Valz Gris, A. Tangling a bi-oceanic corridor. *Lo Squaderno, 51*, 17-20.
+
+### Book chapters
+
+`2020`
+Valz Gris, A. Logistica e urbanizzazione: Uno sguardo dal corridoio bi-oceanico. In Benvegnù, C., Cuppini, N., Frapporti, M., Milesi, F., Pirone, M. (Eds.), *Logistica e America Latina* (pp.174-182). Bologna: Dipartimento delle Arti, Università di Bologna. https://doi.org/10.6092/unibo/amsacta/6434
+
+`2019`
+Valz Gris, A. Appunti su città e piattaforma. Dentro e oltre la metafora. In *Il Campo di Battaglia Urbano* (pp. 95-103). Roma: Red Star Press.
+
+### Datasets
+
+`2023`
+Valz Gris, A. Frontiere della Transizione Energetica. Un database cartografico sui permessi di ricerca per materie prime critiche in Italia. (1.0.0) [Data set]. [frontieredellatransizione.it](http://frontieredellatransizione.it/), https://doi.org/10.5281/zenodo.10058425
+
+### Conference proceedings
+
+`2022`
+Valz Gris, A. Il paesaggio operazionale del Salar de Olaroz (Argentina): Diseguaglianze e conflitti spaziali delle catene globali del valore. In Amato, F., Amato, V., de Falco, S. La Foresta, D. Simonetti, L. (Eds.), *Catene/Chains, Memorie Geografiche, 21*, 43-48.
+
+`2018`
+Valz Gris, A. Lavoro, spazio, movimenti. Mobilitare l'urbano dentro e oltre il capitalismo delle piattaforme. In Zaar, M., Capel, H. (Eds.) *Las Ciencias Sociales y la Edificación de una Sociedad Postcapitalista*. Barcelona: Universidad de Barcelona/Geocrítica.
+
+### Book reviews
+
+`2020`
+Valz Gris, A. City air beyond the city: Can the planetary mine lead us to emancipatory urban futures? *City, 24*(5-6), 865–870. https://doi.org/10.1080/13604813.2020.1833547
+
+### Public writing
+
+`2020`
+Valz Gris, A., Iacovone, C. Il virus è un prodotto del Capitalocene. *Jacobin Italia*. Available at https://bit.ly/3Kw8yua
+
+
 ## Teaching
 
 `2022-2023`
@@ -154,53 +207,6 @@ Department of Architecture and Design (DAD), Politecnico di Torino
 *Teaching assistant*. Course held by arch. M. Ortalli  
 My involvement in this course consisted in completing design crits with BA level students in Architecture in order to review and support their work-in-progress designs.  
 <br>
-
-## Publications
-
-A list is also available [online](https://iris.polito.it/browse?type=author&authority=rp19928&authority_lang=en).
-
-### Journal articles
-
-`forthcoming`
-Valz Gris, A. Beyond the boom. Genealogies of corridor urbanism in the making of the Lithium Triangle, Argentina and Chile. *Geoforum*. Online first.
-
-`forthcoming`
-Valz Gris, A. COSCO e l’urbanizzazione ‘turbolenta’ del porto del Pireo. *Territorio* (103), 31-36. https://doi.org/10.3280/TR2022-103\*\**
-
-`2022`
-Valz Gris, A., Iacovone, C., Safina, A., Pollio, A., Governa, F. Il 'campo' geografico di un'etnografia sottile. *Rivista Geografica Italiana - Open Access, 1*(1), 5-31. https://doi.org/10.3280/rgioa1-2022oa13364
-
-`2021`
-Iacovone, C., Valz Gris, A., Safina, A., Pollio, A., Governa, F. Breaking the distance: Dialogues of care in a time of limited geographies. *Dialogues in Human Geography, 102*(2), 124-127. https://doi.org/10.1177/2043820620934940
-
-`2019`
-Valz Gris, A. Tangling a bi-oceanic corridor. *Lo Squaderno, 51*, 17-20.
-
-### Book chapters
-
-`2020`
-Valz Gris, A. Logistica e urbanizzazione: Uno sguardo dal corridoio bi-oceanico. In Benvegnù, C., Cuppini, N., Frapporti, M., Milesi, F., Pirone, M. (Eds.), *Logistica e America Latina* (pp.174-182). Bologna: Dipartimento delle Arti, Università di Bologna. https://doi.org/10.6092/unibo/amsacta/6434
-
-`2019`
-Valz Gris, A. Appunti su città e piattaforma. Dentro e oltre la metafora. In *Il Campo di Battaglia Urbano* (pp. 95-103). Roma: Red Star Press.
-
-### Conference proceedings
-
-`2022`
-Valz Gris, A. Il paesaggio operazionale del Salar de Olaroz (Argentina): Diseguaglianze e conflitti spaziali delle catene globali del valore. In Amato, F., Amato, V., de Falco, S. La Foresta, D. Simonetti, L. (Eds.), *Catene/Chains, Memorie Geografiche, 21*, 43-48.
-
-`2018`
-Valz Gris, A. Lavoro, spazio, movimenti. Mobilitare l'urbano dentro e oltre il capitalismo delle piattaforme. In Zaar, M., Capel, H. (Eds.) *Las Ciencias Sociales y la Edificación de una Sociedad Postcapitalista*. Barcelona: Universidad de Barcelona/Geocrítica.
-
-### Book reviews
-
-`2020`
-Valz Gris, A. City air beyond the city: Can the planetary mine lead us to emancipatory urban futures? *City, 24*(5-6), 865–870. https://doi.org/10.1080/13604813.2020.1833547
-
-### Public writing
-
-`2020`
-Valz Gris, A., Iacovone, C. Il virus è un prodotto del Capitalocene. *Jacobin Italia*. Available at https://bit.ly/3Kw8yua
 
 ## Presentations
 
