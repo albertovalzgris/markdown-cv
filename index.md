@@ -109,13 +109,13 @@ A list is also available [online](https://iris.polito.it/browse?type=author&auth
 Valz Gris, A. Beyond the boom. Genealogies of corridor urbanism in the making of the Lithium Triangle, Argentina and Chile. *Geoforum*. Online first.
 
 `forthcoming`
-Valz Gris, A. COSCO e l’urbanizzazione ‘turbolenta’ del porto del Pireo. *Territorio* (103), 31-36. https://doi.org/10.3280/TR2022-103\*\**
+Valz Gris, A. COSCO e l’urbanizzazione ‘turbolenta’ del porto del Pireo. *Territorio* (103), 31-36. [https://doi.org/10.3280/TR2022-103\*\**](https://doi.org/10.3280/TR2022-103\*\**)
 
 `2022`
-Valz Gris, A., Iacovone, C., Safina, A., Pollio, A., Governa, F. Il 'campo' geografico di un'etnografia sottile. *Rivista Geografica Italiana - Open Access, 1*(1), 5-31. https://doi.org/10.3280/rgioa1-2022oa13364
+Valz Gris, A., Iacovone, C., Safina, A., Pollio, A., Governa, F. Il 'campo' geografico di un'etnografia sottile. *Rivista Geografica Italiana - Open Access, 1*(1), 5-31. [https://doi.org/10.3280/rgioa1-2022oa13364](https://doi.org/10.3280/rgioa1-2022oa13364)
 
 `2021`
-Iacovone, C., Valz Gris, A., Safina, A., Pollio, A., Governa, F. Breaking the distance: Dialogues of care in a time of limited geographies. *Dialogues in Human Geography, 102*(2), 124-127. https://doi.org/10.1177/2043820620934940
+Iacovone, C., Valz Gris, A., Safina, A., Pollio, A., Governa, F. Breaking the distance: Dialogues of care in a time of limited geographies. *Dialogues in Human Geography, 102*(2), 124-127. [https://doi.org/10.1177/2043820620934940](https://doi.org/10.1177/2043820620934940)
 
 `2019`
 Valz Gris, A. Tangling a bi-oceanic corridor. *Lo Squaderno, 51*, 17-20.
@@ -123,7 +123,7 @@ Valz Gris, A. Tangling a bi-oceanic corridor. *Lo Squaderno, 51*, 17-20.
 ### Book chapters
 
 `2020`
-Valz Gris, A. Logistica e urbanizzazione: Uno sguardo dal corridoio bi-oceanico. In Benvegnù, C., Cuppini, N., Frapporti, M., Milesi, F., Pirone, M. (Eds.), *Logistica e America Latina* (pp.174-182). Bologna: Dipartimento delle Arti, Università di Bologna. https://doi.org/10.6092/unibo/amsacta/6434
+Valz Gris, A. Logistica e urbanizzazione: Uno sguardo dal corridoio bi-oceanico. In Benvegnù, C., Cuppini, N., Frapporti, M., Milesi, F., Pirone, M. (Eds.), *Logistica e America Latina* (pp.174-182). Bologna: Dipartimento delle Arti, Università di Bologna. [https://doi.org/10.6092/unibo/amsacta/6434](https://doi.org/10.6092/unibo/amsacta/6434)
 
 `2019`
 Valz Gris, A. Appunti su città e piattaforma. Dentro e oltre la metafora. In *Il Campo di Battaglia Urbano* (pp. 95-103). Roma: Red Star Press.
@@ -131,7 +131,7 @@ Valz Gris, A. Appunti su città e piattaforma. Dentro e oltre la metafora. In *I
 ### Datasets
 
 `2023`
-Valz Gris, A. Frontiere della Transizione Energetica. Un database cartografico sui permessi di ricerca per materie prime critiche in Italia. (1.0.0) [Data set]. [frontieredellatransizione.it](http://frontieredellatransizione.it/), https://doi.org/10.5281/zenodo.10058425
+Valz Gris, A. Frontiere della Transizione Energetica. Un database cartografico sui permessi di ricerca per materie prime critiche in Italia. (1.0.0) [Data set]. [frontieredellatransizione.it](http://frontieredellatransizione.it/), [https://doi.org/10.5281/zenodo.10058425](https://doi.org/10.5281/zenodo.10058425)
 
 ### Conference proceedings
 
@@ -144,13 +144,12 @@ Valz Gris, A. Lavoro, spazio, movimenti. Mobilitare l'urbano dentro e oltre il c
 ### Book reviews
 
 `2020`
-Valz Gris, A. City air beyond the city: Can the planetary mine lead us to emancipatory urban futures? *City, 24*(5-6), 865–870. https://doi.org/10.1080/13604813.2020.1833547
+Valz Gris, A. City air beyond the city: Can the planetary mine lead us to emancipatory urban futures? *City, 24*(5-6), 865–870. [https://doi.org/10.1080/13604813.2020.1833547](https://doi.org/10.1080/13604813.2020.1833547)
 
 ### Public writing
 
 `2020`
-Valz Gris, A., Iacovone, C. Il virus è un prodotto del Capitalocene. *Jacobin Italia*. Available at https://bit.ly/3Kw8yua
-
+Valz Gris, A., Iacovone, C. Il virus è un prodotto del Capitalocene. *Jacobin Italia*. Available at [https://bit.ly/3Kw8yua](https://bit.ly/3Kw8yua)
 
 ## Teaching
 
@@ -292,6 +291,6 @@ Paper presentation. *XV Coloquio de Geocrítica*. Barcelona, Spain.
 <br>
 <br>
 
-Last updated: 20/11/2023
+Last updated: \today
 
 
