@@ -106,10 +106,11 @@ A list is also available [online](https://iris.polito.it/browse?type=author&auth
 ### Journal articles
 
 `forthcoming`
-Valz Gris, A. Beyond the boom. Genealogies of corridor urbanism in the making of the Lithium Triangle, Argentina and Chile. *Geoforum*. Online first.
-
-`forthcoming`
 Valz Gris, A. COSCO e l’urbanizzazione ‘turbolenta’ del porto del Pireo. *Territorio* (103), 31-36.
+
+`2023`
+Valz Gris, A. (2023). Beyond the boom. Genealogies of corridor urbanism in the making of the Lithium Triangle, Argentina and Chile. *Geoforum, 147*, 103913. [https://doi.org/10.1016/j.geoforum.2023.103913
+](https://doi.org/10.1016/j.geoforum.2023.103913)
 
 `2022`
 Valz Gris, A., Iacovone, C., Safina, A., Pollio, A., Governa, F. Il 'campo' geografico di un'etnografia sottile. *Rivista Geografica Italiana - Open Access, 1*(1), 5-31. [https://doi.org/10.3280/rgioa1-2022oa13364](https://doi.org/10.3280/rgioa1-2022oa13364)
