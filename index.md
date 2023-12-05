@@ -116,7 +116,7 @@ Valz Gris, A. (2022) COSCO e l’urbanizzazione ‘turbolenta’ del porto del P
 Valz Gris, A., Iacovone, C., Safina, A., Pollio, A., Governa, F. (2022) Il 'campo' geografico di un'etnografia sottile. *Rivista Geografica Italiana - Open Access, 1*(1), 5-31. [https://doi.org/10.3280/rgioa1-2022oa13364](https://doi.org/10.3280/rgioa1-2022oa13364)
 
 `2021`
-Iacovone, C., Valz Gris, A., Safina, A., Pollio, A., Governa, F. (2021) Breaking the distance: Dialogues of care in a time of limited geographies. *Dialogues in Human Geography, 102*(2), 124-127. [https://doi.org/10.1177/2043820620934940](https://doi.org/10.1177/2043820620934940)
+Iacovone, C., Valz Gris, A., Safina, A., Pollio, A., Governa, F. (2021) Breaking the distance: Dialogues of care in a time of limited geographies. *Dialogues in Human Geography, 10*(2), 124-127. [https://doi.org/10.1177/2043820620934940](https://doi.org/10.1177/2043820620934940)
 
 `2019`
 Valz Gris, A. (2019) Tangling a bi-oceanic corridor. *Lo Squaderno, 51*, 17-20.
