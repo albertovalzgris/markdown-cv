@@ -73,7 +73,7 @@ This project is developed in collaboration with visual artist Cecilia Ceccherini
 
 `2022`
 **I paesaggi operazionali nel Nord Italia. Geografie mobili, strategie spaziali e mappe dinamiche dell’urbanizzazione regionale**  
-Department of Architecture and Urban Studies (DAStU), Politecnico di Torino  
+Department of Architecture and Urban Studies (DAStU), Politecnico di Milano
 *Research consultant*. Principal investigator: prof. S. Armondi  
 Which dynamics are reconfiguring those territories of production, circulation and support that exists in relation to large urban concentrations? This project—enabled by funding for original research by the Politecnico di Milano—critically investigates the geographies of operational landscapes in Northern Italian regions with three main goals. Firstly, it aims at tracing emergent economic geographies by updating their interpretive frameworks, cartographic representations and challenging impending urban dynamics. Secondly, it seeks to describe the plurality of policies, actors and strategies that remake urban contexts and territorial configurations; thirdly, it proposes to build evidence and spatial representations that support the activity of planners and policymakers with respect to the shifting dynamics of global production. In its initial phases, the project involves quantitative modeling, spot cartographic analysis and semi-structured interviews as a focus on case studies spanning the width of Northern Italian regions.
 <br>
