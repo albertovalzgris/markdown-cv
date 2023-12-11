@@ -58,6 +58,14 @@ Thesis: Osservare dal Parco. Un Progetto di Trasformazione per il Parco del Meis
 
 ## Research 
 
+`2023-now`
+**The financialised city? Milano: geografie finanziarie, geopolitica urbana e questione abitativa
+**
+Department of Regional and Urban Studies (DIST), Politecnico di Torino  
+*Post-doctoral research fellow*. Principal investigator: prof. F. Governa  
+This project explores the financialization of urban development, particularly in Milan after the 2008 financial crisis. Milan's transformation aligns with global trends, featuring strategic urban planning to position the city as a global hub. This involves initiatives like urban regeneration, major events, and population attraction, driving symbolic projects and substantial investments. This study charts a multiscalar network involving diverse actors and objectives, examining theoretical aspects (urban geopolitics, state role, societal impacts) and empirical dimensions (financial architectures, strategies, and specific area transformations like Porta Romana). Milan's case contributes to international observations, depicting financialization as a multi-faceted, contradictory process with diverse actors beyond financial institutions. This research aims to illuminate Milan's urban dynamics, considering geopolitical implications and societal impacts, thus expanding the understanding of financialization in urban development globally.
+<br>
+
 `2022-now`
 **SUR: città del sud Europa e Global Urbanism**  
 Department of Regional and Urban Studies (DIST), Politecnico di Torino  
@@ -115,7 +123,7 @@ Valz Gris, A. (2022) COSCO e l’urbanizzazione ‘turbolenta’ del porto del P
 `2022`
 Valz Gris, A., Iacovone, C., Safina, A., Pollio, A., Governa, F. (2022) Il 'campo' geografico di un'etnografia sottile. *Rivista Geografica Italiana - Open Access, 1*(1), 5-31. [https://doi.org/10.3280/rgioa1-2022oa13364](https://doi.org/10.3280/rgioa1-2022oa13364)
 
-`2021`
+`2020`
 Iacovone, C., Valz Gris, A., Safina, A., Pollio, A., Governa, F. (2021) Breaking the distance: Dialogues of care in a time of limited geographies. *Dialogues in Human Geography, 10*(2), 124-127. [https://doi.org/10.1177/2043820620934940](https://doi.org/10.1177/2043820620934940)
 
 `2019`
@@ -137,7 +145,7 @@ Valz Gris, A. (2023) Frontiere della Transizione Energetica. Un database cartogr
 ### Conference proceedings
 
 `2022`
-Valz Gris, A. (2023) Il paesaggio operazionale del Salar de Olaroz (Argentina): Diseguaglianze e conflitti spaziali delle catene globali del valore. In Amato, F., Amato, V., de Falco, S. La Foresta, D. Simonetti, L. (Eds.), *Catene/Chains, Memorie Geografiche, 21*, 43-48.
+Valz Gris, A. (2022) Il paesaggio operazionale del Salar de Olaroz (Argentina): Diseguaglianze e conflitti spaziali delle catene globali del valore. In Amato, F., Amato, V., de Falco, S. La Foresta, D. Simonetti, L. (Eds.), *Catene/Chains, Memorie Geografiche, 21*, 43-48.
 
 `2018`
 Valz Gris, A. (2018) Lavoro, spazio, movimenti. Mobilitare l'urbano dentro e oltre il capitalismo delle piattaforme. In Zaar, M., Capel, H. (Eds.) *Las Ciencias Sociales y la Edificación de una Sociedad Postcapitalista*. Barcelona: Universidad de Barcelona/Geocrítica.
@@ -171,21 +179,18 @@ Teaching this semester-long course to first-year BA students in Fine Arts for th
 Department of Regional and Urban Studies (DIST), Politecnico di Torino  
 *Teaching assistant*. Course held by prof. M. Santangelo  
 Activities completed in this course have consisted in sessions of territorial analysis highlighting the role of physical geography in shaping patterns of urbanization and the making of moving- image materials across the design site for supporting the students’ activities.  
-<br>
 
 `2020-2021`
 **Urban Studies**  
 Department of Regional and Urban Studies (DIST), Politecnico di Torino  
 *Guest lecturer*. Course held by prof. F. Governa  
 This guest lecture for master students in Architecture focused on the planetary dimension of urbanization patterns, covering debates on city-country relations, urban metabolism and extended urbanization through the reconstruction of theoretical lineages and the analysis of empirical case studies.  
-<br>
 
 `2019-2020`
 **Urban Studies**  
 Department of Regional and Urban Studies (DIST), Politecnico di Torino  
 *Teaching assistant*. Course held by prof. F. Governa  
 This guest lecture for master students in Architecture focused on the planetary dimension of urbanization patterns, covering debates on city-country relations, urban metabolism and extended urbanization through the reconstruction of theoretical lineages and the analysis of empirical case studies.  
-<br>
 
 `2018-2019`
 **Urban Economics**  
@@ -199,14 +204,12 @@ This assistance position in an interdepartmental course at the Bachelor level ha
 Department of Regional and Urban Studies (DIST), Politecnico di Torino  
 *Teaching assistant*. Course held by prof. L. Buzzacchi  
 This assistance position in an interdepartmental course at the Bachelor level has involved both lecturing on the subject of urban political economy, supporting the students in the course empirical exercises and marking through the final examination.
-<br>
 
 `2012-2013`
 **Urban and Architectural Design**  
 Department of Architecture and Design (DAD), Politecnico di Torino  
 *Teaching assistant*. Course held by arch. M. Ortalli  
 My involvement in this course consisted in completing design crits with BA level students in Architecture in order to review and support their work-in-progress designs.  
-<br>
 
 ## Presentations
 
