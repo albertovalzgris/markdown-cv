@@ -59,7 +59,7 @@ Thesis: Osservare dal Parco. Un Progetto di Trasformazione per il Parco del Meis
 ## Research 
 
 `2024-now`
-**The new Italian geographies of logistics**
+**The new Italian geographies of logistics**  
 Department of Urban and Regional Studies and Planning (DIST), Politecnico di Torino  
 *Post-doctoral research fellow*. Principal investigator: prof. C. Salone  
 [Project description]  
