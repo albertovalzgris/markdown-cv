@@ -4,6 +4,7 @@ author: avalzgris
 ...
 
 - [ ] aggiungere da qualche parte workshop organization
+- [ ] aggiungere da qualche parte session organization
 
 # Attività di ricerca
 

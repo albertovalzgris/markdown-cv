@@ -227,6 +227,11 @@ My involvement in this course consisted in completing design crits with BA level
 ## Presentations
 
 `2023`
+**“It’s a shithole, but we are still here”. Ecologie politiche urbane lungo la Nuova Via della Seta a Pireo, Grecia**
+Paper presentation. *IV Edizione delle Giornate di Studi interdisciplinari “GEOGRAFIA E...” - Geografia e Ecologia Politica*. Milan, Italy.
+<br>
+
+`2023`
 **Enclaves and borders. A walking ethnography of Silk Road urbanisation in Piraeus, Greece**  
 Paper presentation. *Silk road Cities and Beyond International Workshop*. Barcelona, Spain.
 <br>
