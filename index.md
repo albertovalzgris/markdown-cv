@@ -66,7 +66,7 @@ Department of Urban and Regional Studies and Planning (DIST), Politecnico di Tor
 
 `2023-now`
 **The financialised city? Milano: geografie finanziarie, geopolitica urbana e questione abitativa**  
-Department of Regional and Urban Studies (DIST), Politecnico di Torino  
+Department of Urban and Regional Studies and Planning (DIST), Politecnico di Torino  
 *Post-doctoral research fellow*. Principal investigator: prof. F. Governa  
 This project explores the financialization of urban development, particularly in Milan after the 2008 financial crisis. Milan's transformation aligns with global trends, featuring strategic urban planning to position the city as a global hub. This involves initiatives like urban regeneration, major events, and population attraction, driving symbolic projects and substantial investments. This study charts a multiscalar network involving diverse actors and objectives, examining theoretical aspects (urban geopolitics, state role, societal impacts) and empirical dimensions (financial architectures, strategies, and specific area transformations like Porta Romana). Milan's case contributes to international observations, depicting financialization as a multi-faceted, contradictory process with diverse actors beyond financial institutions. This research aims to illuminate Milan's urban dynamics, considering geopolitical implications and societal impacts, thus expanding the understanding of financialization in urban development globally.
 <br>
@@ -74,7 +74,7 @@ This project explores the financialization of urban development, particularly in
 `2022-2024`
 
 **Rescaling the Belt and Road Initiative**  
-Department of Regional and Urban Studies (DIST), Politecnico di Torino  
+Department of Urban and Regional Studies and Planning (DIST), Politecnico di Torino  
 *Post-doctoral research fellow*. Principal investigator: prof. F. Governa  
 This research program, financed by the PRIN project "Rescaling the Belt and Road Initiative: urbanisation processes, innovation patterns and global investments in urban China", seeks to construct a dialogue between the international debate on Global Urbanism and the urban experience of Southern Europe. Global Urbanism emerges as the attempt to build critical urban knowledge starting from the grounded acknowledgment of differences and their continuous mutations. Through this project, we propose to explore the question of a global urban horizon starting from the specificities and differences of various Southern European urban experiences, hence attempting theory building from peripheral loci. In its initial phases, the program will consist in the critical analysis of existing research, in a selection of three case studies and in their subsequent exploration through short fieldwork periods.
 <br>
@@ -94,14 +94,14 @@ Which dynamics are reconfiguring those territories of production, circulation an
 
 `2021`
 **Dream Story. Urban modernity through Italy and China**  
-Department of Regional and Urban Studies (DIST), Politecnico di Torino  
+Department of Urban and Regional Studies and Planning (DIST), Politecnico di Torino  
 *Research assistant*. Principal investigator: prof. F. Governa  
 The project forms part of the activities financed by the PRIN project Rescaling the Belt and Road Initiative: urbanisation processes, innovation patterns and global investments in urban China, and consists in the design and production of an international exhibition and a multi- media catalog on the theme of urban modernities. Drawing on an openly comparative approach to patterns of urbanization, this research explores the emergence of multiple urban moderni- ties by observing them through two apparently unrelated waves of urbanization: that of postwar Italy and that of contemporary China. My involvement in the project consists in supporting the curatorial team by critically selecting case studies and producing both theoretical, archival and field-based research on the driving themes of the exhibition.  
 <br>
 
 `2017-2021`
 **Hinterlands of the green transition. Atacama, lithium and the extended geographies of the zero-emission city**  
-Department of Regional and Urban Studies (DIST), Politecnico di Torino  
+Department of Urban and Regional Studies and Planning (DIST), Politecnico di Torino  
 *Ph.D. candidate*. Tutor: prof. F. Governa  
 This doctoral dissertation project explores the dynamics of lithium extraction on the Atacama plateau as an analytical move to understand flows of urban metabolism between cities and hinterlands at the planetary scale. Combining theoretical frameworks from the areas of critical urban studies, economic geography and urban political ecology, the project deepens our understanding of the persisting extractivism of urban green transitions. This argument has been developed through the deployment of ethnographic fieldwork in Argentina and Chile, document and cartographic analysis and visual methodologies. The completion of the project has involved autonomous research design, the organization and fulfillment of international fieldwork and a sustained program of discussion in international conferences and seminaries.  
 <br>
