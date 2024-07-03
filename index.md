@@ -58,16 +58,22 @@ Thesis: Osservare dal Parco. Un Progetto di Trasformazione per il Parco del Meis
 
 ## Research 
 
+`2024-now`
+**The new Italian geographies of logistics**
+Department of Urban and Regional Studies and Planning (DIST), Politecnico di Torino  
+*Post-doctoral research fellow*. Principal investigator: prof. C. Salone  
+[Project description]  
+
 `2023-now`
-**The financialised city? Milano: geografie finanziarie, geopolitica urbana e questione abitativa
-**
+**The financialised city? Milano: geografie finanziarie, geopolitica urbana e questione abitativa**  
 Department of Regional and Urban Studies (DIST), Politecnico di Torino  
 *Post-doctoral research fellow*. Principal investigator: prof. F. Governa  
 This project explores the financialization of urban development, particularly in Milan after the 2008 financial crisis. Milan's transformation aligns with global trends, featuring strategic urban planning to position the city as a global hub. This involves initiatives like urban regeneration, major events, and population attraction, driving symbolic projects and substantial investments. This study charts a multiscalar network involving diverse actors and objectives, examining theoretical aspects (urban geopolitics, state role, societal impacts) and empirical dimensions (financial architectures, strategies, and specific area transformations like Porta Romana). Milan's case contributes to international observations, depicting financialization as a multi-faceted, contradictory process with diverse actors beyond financial institutions. This research aims to illuminate Milan's urban dynamics, considering geopolitical implications and societal impacts, thus expanding the understanding of financialization in urban development globally.
 <br>
 
-`2022-now`
-**SUR: città del sud Europa e Global Urbanism**  
+`2022-2024`
+
+**Rescaling the Belt and Road Initiative**  
 Department of Regional and Urban Studies (DIST), Politecnico di Torino  
 *Post-doctoral research fellow*. Principal investigator: prof. F. Governa  
 This research program, financed by the PRIN project "Rescaling the Belt and Road Initiative: urbanisation processes, innovation patterns and global investments in urban China", seeks to construct a dialogue between the international debate on Global Urbanism and the urban experience of Southern Europe. Global Urbanism emerges as the attempt to build critical urban knowledge starting from the grounded acknowledgment of differences and their continuous mutations. Through this project, we propose to explore the question of a global urban horizon starting from the specificities and differences of various Southern European urban experiences, hence attempting theory building from peripheral loci. In its initial phases, the program will consist in the critical analysis of existing research, in a selection of three case studies and in their subsequent exploration through short fieldwork periods.
@@ -113,12 +119,16 @@ A list is also available [online](https://iris.polito.it/browse?type=author&auth
 
 ### Journal articles
 
+`2024`
+Valz Gris, A. (forthcoming). Estrattivismo e urbanizzazione: diseguaglianze e conflitti nell'inserimento strategico del Salar de Olaroz. *Rivista Geografica Italiana - Open Access*
+
 `2023`
 Valz Gris, A. (2023). Beyond the boom. Genealogies of corridor urbanism in the making of the Lithium Triangle, Argentina and Chile. *Geoforum, 147*, 103913. [https://doi.org/10.1016/j.geoforum.2023.103913
 ](https://doi.org/10.1016/j.geoforum.2023.103913)
 
 `2022`
-Valz Gris, A. (2022) COSCO e l’urbanizzazione ‘turbolenta’ del porto del Pireo. *Territorio* (103), 31-36 (forthcoming)
+Valz Gris, A. (2022). Cosco e l’urbanizzazione «turbolenta» del porto del Pireo. *Territorio, 103*, 31–36. [https://doi.org/10.3280/TR2023-103003
+](https://doi.org/10.3280/TR2023-103003)
 
 `2022`
 Valz Gris, A., Iacovone, C., Safina, A., Pollio, A., Governa, F. (2022) Il 'campo' geografico di un'etnografia sottile. *Rivista Geografica Italiana - Open Access, 1*(1), 5-31. [https://doi.org/10.3280/rgioa1-2022oa13364](https://doi.org/10.3280/rgioa1-2022oa13364)
@@ -143,6 +153,9 @@ Valz Gris, A. (2019) Appunti su città e piattaforma. Dentro e oltre la metafora
 Valz Gris, A. (2023) Frontiere della Transizione Energetica. Un database cartografico sui permessi di ricerca per materie prime critiche in Italia. (1.0.0) [Data set]. [frontieredellatransizione.it](http://frontieredellatransizione.it/), [https://doi.org/10.5281/zenodo.10058425](https://doi.org/10.5281/zenodo.10058425)
 
 ### Conference proceedings
+
+`2024`
+Bandiera, M., Loi, M., & Valz Gris, A. (forthcoming). Racconti dai margini dell’urbanizzazione: Appunti per una geografia ruderale. In IV Edizione delle Giornate di Studi interdisciplinari “GEOGRAFIA E...” - *Geografia e Ecologia Politica, Milano*.
 
 `2022`
 Valz Gris, A. (2022) Il paesaggio operazionale del Salar de Olaroz (Argentina): Diseguaglianze e conflitti spaziali delle catene globali del valore. In Amato, F., Amato, V., de Falco, S. La Foresta, D. Simonetti, L. (Eds.), *Catene/Chains, Memorie Geografiche, 21*, 43-48.
