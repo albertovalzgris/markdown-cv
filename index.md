@@ -25,7 +25,7 @@ Extended urbanization, geographies of production, green extractivism, commodity 
 
 ### Research interests
 
-I am an urban geographer working at the intersection of heterodox economic geography and urban political ecology. My research investigates emerging patterns of urbanization through the shifting geographies of production. As such, my main research interests are rooted in the dynamics of extended urbanization, in the geographies of natural resource extraction and logistical reconfiguration, and in their associated socioecological shifts.
+Alberto Valz Gris is a critical urban geographer, currently a Post-doctoral Research Fellow at Politecnico di Torino. His research interests lie in a theoretically oriented and empirically grounded urban geography of global infrastructure and resource extraction. His recent projects have explored the dynamics of mineral extraction and the contested histories of infrastructural development drawing on fieldwork in different contexts, such as the lithium boom in the Atacama (Argentina and Chile) and the urban outcomes of port expansion in Piraeus (Greece) and Genova (Italy). 
 
 ## Education
 
