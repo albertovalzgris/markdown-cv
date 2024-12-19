@@ -59,10 +59,16 @@ Thesis: Osservare dal Parco. Un Progetto di Trasformazione per il Parco del Meis
 ## Research 
 
 `2024-now`
+**Urbanization, everyday life and techno-social differentiation – Global CORRIDOR**  
+Department of Urban and Regional Studies and Planning (DIST), Politecnico di Torino and University of Sheffield 
+*Post-doctoral research fellow*. Principal investigator: dr. Jonathan Silver
+A five-year starting grant project commencing in July 2021 funded by the Horizon2020 programme, European Research Council. The project aims to outline the unequal impacts corridor investments are having on people living in cities during rapid urbanization and explore alternatives that might help better address urban inequality and sustainability.
+
+`2024-now`
 **The new Italian geographies of logistics**  
 Department of Urban and Regional Studies and Planning (DIST), Politecnico di Torino  
 *Post-doctoral research fellow*. Principal investigator: prof. C. Salone  
-[Project description]  
+The project focuses on the new spatial articulations of the logistics sector in Italy, assuming that the logistics sector has grown significantly over the last 20 years and that this growth has determined several effects on the spatial organization of various places along the peninsula. 
 
 `2023-now`
 **The financialised city? Milano: geografie finanziarie, geopolitica urbana e questione abitativa**  
@@ -120,7 +126,10 @@ A list is also available [online](https://iris.polito.it/browse?type=author&auth
 ### Journal articles
 
 `2024`
-Valz Gris, A. (forthcoming). Estrattivismo e urbanizzazione: diseguaglianze e conflitti nell'inserimento strategico del Salar de Olaroz. *Rivista Geografica Italiana - Open Access*
+Valz Gris, A. (2024). Estrattivismo e urbanizzazione: Diseguaglianze e conflitti nell’ inserimento strategico del Salar de Olaroz. *Rivista Geografica Italiana - Open Access, 3*. [https://doi.org/10.3280/rgioa3-2024oa18428
+](https://doi.org/10.3280/rgioa3-2024oa18428
+)
+
 
 `2023`
 Valz Gris, A. (2023). Beyond the boom. Genealogies of corridor urbanism in the making of the Lithium Triangle, Argentina and Chile. *Geoforum, 147*, 103913. [https://doi.org/10.1016/j.geoforum.2023.103913

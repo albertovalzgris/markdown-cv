@@ -13,10 +13,10 @@ author: avalzgris
 
 # Presentations
 
-- [x] 2022: Workshop *Comparative Dialogues*
-- [x] 2022: Delft
-- [x] 2022: EARCAG Taipei
+- [ ] 2024: AESOP
 - [ ] 2024: RC21
+- [ ] 2024: Supsi (October)
+- [ ] 2024: Ressources du sous-sol en tension (October)
 
 # Publications
 
