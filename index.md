@@ -60,8 +60,8 @@ Thesis: Osservare dal Parco. Un Progetto di Trasformazione per il Parco del Meis
 
 `2024-now`
 **Urbanization, everyday life and techno-social differentiation – Global CORRIDOR**  
-Department of Urban and Regional Studies and Planning (DIST), Politecnico di Torino and University of Sheffield 
-*Post-doctoral research fellow*. Principal investigator: dr. Jonathan Silver
+Department of Urban and Regional Studies and Planning (DIST), Politecnico di Torino and University of Sheffield  
+*Post-doctoral research fellow*. Principal investigator: dr. Jonathan Silver  
 A five-year starting grant project commencing in July 2021 funded by the Horizon2020 programme, European Research Council. The project aims to outline the unequal impacts corridor investments are having on people living in cities during rapid urbanization and explore alternatives that might help better address urban inequality and sustainability.
 
 `2024-now`
