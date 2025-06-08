@@ -184,6 +184,28 @@ Valz Gris, A., Iacovone, C. (2020) Il virus è un prodotto del Capitalocene. *Ja
 
 ## Teaching
 
+`2025-now`
+**MSc thesis supervision**, Jorge Farah Dabeb Caceres  
+Thesis: Urbanization, sustainable development and sociospatial conflict: a metabolic analysis of a Chilean mine and a Tesla gigafactory.
+*Laurea Magistrale - Architettura, Politecnico di Milano*, Italy
+
+`2024-2025`
+**Economia Urbana**  
+Politecnico di Torino  
+*Course leader*  
+Activities completed in this course have consisted in 30 hours of lectures, students' supervision in the development of a practical exercise, examination and marking.
+
+`2019-2024`
+**Urban Studies**  
+Department of Regional and Urban Studies (DIST), Politecnico di Torino  
+*Teaching assistant*. Course held by prof. F. Governa  
+Activities completed in this course across several years have consisted in guest lectures, students' supervision, the organization of reading seminars and examination.
+
+`2023`
+**MSc thesis supervision**, Stella De Luca
+Thesis: Metabolismo socio-naturale e regimi urbani: la produzione di socio-natura urbanizzata tra immaginari geografici e materialità. Un’analisi di un caso studio delle Valli Orco e Soana
+*Laurea Magistrale - Economia dell’Ambiente, della Cultura e del Territorio, Università di Torino*, Italy
+
 `2022-2023`
 **Socially Engaged Art Winter Project**  
 Accademia Unidee, Biella and ArtEZ Academy, Arnhem  
@@ -202,26 +224,7 @@ Department of Regional and Urban Studies (DIST), Politecnico di Torino
 *Teaching assistant*. Course held by prof. M. Santangelo  
 Activities completed in this course have consisted in sessions of territorial analysis highlighting the role of physical geography in shaping patterns of urbanization and the making of moving- image materials across the design site for supporting the students’ activities.  
 
-`2020-2021`
-**Urban Studies**  
-Department of Regional and Urban Studies (DIST), Politecnico di Torino  
-*Guest lecturer*. Course held by prof. F. Governa  
-This guest lecture for master students in Architecture focused on the planetary dimension of urbanization patterns, covering debates on city-country relations, urban metabolism and extended urbanization through the reconstruction of theoretical lineages and the analysis of empirical case studies.  
-
-`2019-2020`
-**Urban Studies**  
-Department of Regional and Urban Studies (DIST), Politecnico di Torino  
-*Teaching assistant*. Course held by prof. F. Governa  
-This guest lecture for master students in Architecture focused on the planetary dimension of urbanization patterns, covering debates on city-country relations, urban metabolism and extended urbanization through the reconstruction of theoretical lineages and the analysis of empirical case studies.  
-
-`2018-2019`
-**Urban Economics**  
-Department of Regional and Urban Studies (DIST), Politecnico di Torino  
-*Teaching assistant*. Course held by prof. L. Buzzacchi  
-This assistance position in an interdepartmental course at the Bachelor level has involved both lecturing on the subject of urban political economy, supporting the students in the course empirical exercises and marking through the final examination.
-<br>
-
-`2017-2018`
+`2017-2019`
 **Urban Economics**  
 Department of Regional and Urban Studies (DIST), Politecnico di Torino  
 *Teaching assistant*. Course held by prof. L. Buzzacchi  
@@ -231,7 +234,7 @@ This assistance position in an interdepartmental course at the Bachelor level ha
 **Urban and Architectural Design**  
 Department of Architecture and Design (DAD), Politecnico di Torino  
 *Teaching assistant*. Course held by arch. M. Ortalli  
-My involvement in this course consisted in completing design crits with BA level students in Architecture in order to review and support their work-in-progress designs.  
+My involvement in this course consisted in completing design crits with BA level students in Architecture in order to review and support their work-in-progress designs. 
 
 ## Conferences and seminars
 
