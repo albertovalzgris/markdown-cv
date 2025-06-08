@@ -190,7 +190,7 @@ Valz Gris, A., Iacovone, C. (2020) Il virus è un prodotto del Capitalocene. *Ja
 ## Teaching
 
 `2025-now`
-**MSc thesis supervision**, Jorge Farah Dabeb Caceres  
+**MSc thesis supervision**, Jorge Farah Dabed Caceres  
 Thesis: Urbanization, sustainable development and sociospatial conflict: a metabolic analysis of a Chilean mine and a Tesla gigafactory.
 *Laurea Magistrale - Architettura, Politecnico di Milano*, Italy
 
@@ -198,13 +198,13 @@ Thesis: Urbanization, sustainable development and sociospatial conflict: a metab
 **Economia Urbana**  
 Politecnico di Torino  
 *Course leader*  
-Activities completed in this course have consisted in 30 hours of lectures, students' supervision in the development of a practical exercise, examination and marking.
+Activities completed in this course included 30 hours of lectures, students' supervision in the development of a practical exercise, examination and marking.
 
 `2019-2024`
 **Urban Studies**  
 Department of Regional and Urban Studies (DIST), Politecnico di Torino  
 *Teaching assistant*. Course held by prof. F. Governa  
-Activities completed in this course across several years have consisted in guest lectures, students' supervision, the organization of reading seminars and examination.
+Activities completed in this course across several years included guest lectures, students' supervision, the organization of reading seminars and examination.
 
 `2023`
 **MSc thesis supervision**, Stella De Luca
@@ -227,7 +227,7 @@ Teaching this semester-long course to first-year BA students in Fine Arts for th
 **Fattori ambientali e geografici dello sviluppo del territorio**  
 Department of Regional and Urban Studies (DIST), Politecnico di Torino  
 *Teaching assistant*. Course held by prof. M. Santangelo  
-Activities completed in this course have consisted in sessions of territorial analysis highlighting the role of physical geography in shaping patterns of urbanization and the making of moving- image materials across the design site for supporting the students’ activities.  
+Activities completed in this course included sessions of territorial analysis highlighting the role of physical geography in shaping patterns of urbanization and the making of moving- image materials across the design site for supporting the students’ activities.  
 
 `2017-2019`
 **Urban Economics**  
@@ -244,29 +244,33 @@ My involvement in this course consisted in completing design crits with BA level
 ## Conferences and seminars
 
 `2025`
-**In the shadow of containers: opposing, inhabiting and exploiting global infrastructure in Piraeus**
+**In the shadow of containers: opposing, inhabiting and exploiting global infrastructure in Piraeus**  
 Paper presentation. *TOROBO - Workshop di Geografia Critica*. University of Bologna, Italy.
 <br>
 
 `2025`
-**Corridor in the making: how land is made connectable across the
-port of Genoa and its extensions**. Paper presentation. *Annual Meeting of the American Association of Geographers*. Detroit, USA.
+**Corridor in the making: how land is made connectable across the port of Genoa and its extensions**  
+Paper presentation. *Annual Meeting of the American Association of Geographers*. Detroit, USA.
 <br>
 
 `2024`
-**Making Porta Romana investible: urban renewal and the techno-politics of mediation, south of Prada**. Paper presentation. *Urban Speculations: Cities, Technologies, Futures*. Leuphana University of Lüneburg, Germany.
+**Making Porta Romana investible: urban renewal and the techno-politics of mediation, south of Prada**  
+Paper presentation. *Urban Speculations: Cities, Technologies, Futures*. Leuphana University of Lüneburg, Germany.
 <br>
 
 `2024`
-**Il “modello Genova”: Infrastrutture logistiche, capitalismo di Stato e transizione autoritaria**. Paper presentation. *XIV Edizione della Giornata di Studio “OLTRE LA GLOBALIZZAZIONE”: Transizioni/Transitions*. Florence, Italy.
+**Il “modello Genova”: Infrastrutture logistiche, capitalismo di Stato e transizione autoritaria**  
+Paper presentation. *XIV Edizione della Giornata di Studio “OLTRE LA GLOBALIZZAZIONE”: Transizioni/Transitions*. Florence, Italy.
 <br>
 
 `2024`
-**Genoa port, logistics hinterlands and the making of a corridor**. Paper presentation. *Sheffield Urbanism Lecture series*. Sheffield Urban Institute, UK (online)
+**Genoa port, logistics hinterlands and the making of a corridor**  
+Paper presentation. *Sheffield Urbanism Lecture series*. Sheffield Urban Institute, UK (online)
 <br>
 
 `2024`
-**Towards domestic green extractivism. A map of critical mineral exploration licenses in Italy**. Paper presentation. *Colloque Ressources du Sous-sol en Tension*. Université de Savoie Mont Blanc, Le Bourget-du-Lac,France.
+**Towards domestic green extractivism. A map of critical mineral exploration licenses in Italy**  
+Paper presentation. *Colloque Ressources du Sous-sol en Tension*. Université de Savoie Mont Blanc, Le Bourget-du-Lac,France.
 <br>
 
 `2024`
@@ -354,50 +358,52 @@ Paper presentation. *XV Coloquio de Geocrítica*. Barcelona, Spain.
 ## Events organization
 
 `2025`
-**The urban geographies of logistics 1 & 2**
+**The urban geographies of logistics 1 & 2**  
 Session organization (with B. Galimberti). *Annual Meeting of the Association of American Geographers*. Detroit, USA.
 <br>
 
 `2025`
-**Making the city investable: the State, financial infrastructures and technopolitical powers 1 & 2**
+**Making the city investable: the State, financial infrastructures and technopolitical powers 1 & 2**  
 Session organization (with C. Iacovone). *Annual Meeting of the Association of American Geographers*. Detroit, USA.
 <br>
 
 `2025`
-**Probing ghostly infrastructure**. Workshop organization (with A. Pavoni). *PhD programme in Urban and Regional Development*. Politecnico di Torino, Italy.
+**Probing ghostly infrastructure**  
+Workshop organization (with A. Pavoni). *PhD programme in Urban and Regional Development*. Politecnico di Torino, Italy.
 <br>
 
 `2024`
-**Global infrastructure and urbanization**. International workshop organization (with A. Pollio, F. Governa). *Interuniversity Department of Regional and Urban Studies and Planning*, Politecnico di Torino, Italy.
+**Global infrastructure and urbanization**  
+International workshop organization (with A. Pollio, F. Governa). *Interuniversity Department of Regional and Urban Studies and Planning*, Politecnico di Torino, Italy.
 <br>
 
 `2024`
-**Ressources du sous-sol en tension**. International workshop, member of scientific committee. Université de Savoie Mont Blanc, France
+**Ressources du sous-sol en tension**  
+International workshop, member of scientific committee. Université de Savoie Mont Blanc, France
 <br>
 
 `2023`
-**Ressources du sous-sol en tension**. Session organization (with M. Loi, M. Bandiera). *IV Edizione delle Giornate di Studi interdisciplinari “GEOGRAFIA E...” - Geografia e Ecologia Politica*. Milan, Italy.
+**Racconti dai margini dell'urbanizzazione**  
+Session organization (with M. Loi, M. Bandiera). *IV Edizione delle Giornate di Studi interdisciplinari “GEOGRAFIA E...” - Geografia e Ecologia Politica*. Milan, Italy.
 <br>
-
-
-
 
 ## Professional memberships
 
 `2022-now`  
 **Global Infrastructure Research Collective**  
-[Website](https://albertovalzgris.github.io/globalinfrastructurecollective/)  
+[globalinfrastructurecollective.com](https://albertovalzgris.github.io/globalinfrastructurecollective/)  
 The Global Infrastructure Research Collective is an international academic network of geographers and urban scholars focusing on global infrastructure initiatives and their urban dimensions. The collective is committed to providing a platform for interdisciplinary research and collaboration and has organized three international workshops in Malmö, Barcelona and Torino alongside several other events.
 
 `2023-now`
 **China Room**  
-[Website](https://chinaroom.polito.it/)  
+[chinaromm.polito.it](https://chinaroom.polito.it/)  
 China Room is an interdisciplinary laboratory where scholars in the fields of architecture, urbanism, and geography study Chinese urbanization processes and urban transformation related to Global China. China Room also fosters collaboration with institutions and universities to share knowledge and provide mutual understanding on urban and architectural practices.
 
 ## Funding and awards
 
 `2025`
 **Erasmus+ Staff Mobility**
+*Urban Institute, University of Sheffield*, UK
 
 `2014`
 **Erasmus Thesis Scholarship**  
