@@ -14,7 +14,7 @@ title: albertovalzgris
 
 **Post-doctoral Research Fellow**  
 Interuniversity Department of Regional and Urban Studies and Planning  
-Polytechnic University of Turin
+Politecnico di Torino  
 viale Mattioli 39  
 10125 Torino  
 Italy
@@ -23,7 +23,7 @@ Italy
 
 Extended urbanization, geographies of production, green extractivism, commodity chain analysis, relational ethnography.-->
 
-### Research interests
+## Research interests
 
 Alberto Valz Gris is a critical urban geographer, currently a Post-doctoral Research Fellow at Politecnico di Torino. His research interests lie in a theoretically oriented and empirically grounded urban geography of global infrastructure and resource extraction. His recent projects have explored the dynamics of mineral extraction and the contested histories of infrastructural development drawing on fieldwork in different contexts, such as the lithium boom in the Atacama (Argentina and Chile) and the urban outcomes of port expansion in Piraeus (Greece) and Genova (Italy). 
 
@@ -233,7 +233,45 @@ Department of Architecture and Design (DAD), Politecnico di Torino
 *Teaching assistant*. Course held by arch. M. Ortalli  
 My involvement in this course consisted in completing design crits with BA level students in Architecture in order to review and support their work-in-progress designs.  
 
-## Presentations
+## Conferences and seminars
+
+`2025`
+**In the shadow of containers: opposing, inhabiting and exploiting global infrastructure in Piraeus**
+Paper presentation. *TOROBO - Workshop di Geografia Critica*. University of Bologna, Italy.
+<br>
+
+`2025`
+**Corridor in the making: how land is made connectable across the
+port of Genoa and its extensions**. Paper presentation. *Annual Meeting of the American Association of Geographers*. Detroit, USA.
+<br>
+
+`2024`
+**Making Porta Romana investible: urban renewal and the techno-politics of mediation, south of Prada**. Paper presentation. *Urban Speculations: Cities, Technologies, Futures*. Leuphana University of Lüneburg, Germany.
+<br>
+
+`2024`
+**Il “modello Genova”: Infrastrutture logistiche, capitalismo di Stato e transizione autoritaria**. Paper presentation. *XIV Edizione della Giornata di Studio “OLTRE LA GLOBALIZZAZIONE”: Transizioni/Transitions*. Florence, Italy.
+<br>
+
+`2024`
+**Genoa port, logistics hinterlands and the making of a corridor**. Paper presentation. *Sheffield Urbanism Lecture series*. Sheffield Urban Institute, UK (online)
+<br>
+
+`2024`
+**Towards domestic green extractivism. A map of critical mineral exploration licenses in Italy**. Paper presentation. *Colloque Ressources du Sous-sol en Tension*. Université de Savoie Mont Blanc, Le Bourget-du-Lac,France.
+<br>
+
+`2024`
+**Urban fragments of global infrastructure: voicing resistance and existence along the New Silk Road in Piraeus**
+Paper presentation. *Alle Frontiere dell’Urbano International Workshop*. University of Applied Sciences and Arts of Southern Switzerland
+<br>
+
+`2024`
+**The urban geopolitics of infrastructure-led development: articulations
+of State capitalism and the production of infrastructural violence in
+Piraeus and Genova**
+Paper presentation. *RC21 Conference*. Santiago, Chile
+<br>
 
 `2023`
 **“It’s a shithole, but we are still here”. Ecologie politiche urbane lungo la Nuova Via della Seta a Pireo, Grecia**
@@ -242,7 +280,7 @@ Paper presentation. *IV Edizione delle Giornate di Studi interdisciplinari “GE
 
 `2023`
 **Enclaves and borders. A walking ethnography of Silk Road urbanisation in Piraeus, Greece**  
-Paper presentation. *Silk road Cities and Beyond International Workshop*. Barcelona, Spain.
+Paper presentation. *Silk road Cities and Beyond International Workshop*. Institute of Environmental Science and Technology (ICTA-UAB), Barcelona, Spain.
 <br>
 
 `2022`
@@ -304,6 +342,18 @@ Paper presentation. *Annual Meeting of American Geographers*. Washington, DC.
 **Lavoro, Spazio, Movimenti**  
 Paper presentation. *XV Coloquio de Geocrítica*. Barcelona, Spain.
 <br>
+
+## Professional memberships
+
+`2022-now`  
+**Global Infrastructure Research Collective**  
+[website](https://albertovalzgris.github.io/globalinfrastructurecollective/)
+The Global Infrastructure Research Collective is an international academic network of geographers and urban scholars focusing on global infrastructure initiatives and their urban dimensions. The collective is committed to providing a platform for interdisciplinary research and collaboration and has organized three international workshops in Malmö, Barcelona and Torino alongside several other events.
+
+## Funding and awards
+
+`2025`
+**Erasmus+ Staff Mobility**
 
 ## Languages
 
