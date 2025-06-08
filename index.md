@@ -351,12 +351,48 @@ Paper presentation. *Annual Meeting of American Geographers*. Washington, DC.
 Paper presentation. *XV Coloquio de Geocrítica*. Barcelona, Spain.
 <br>
 
+## Events organization
+
+`2025`
+**The urban geographies of logistics 1 & 2**
+Session organization (with B. Galimberti). *Annual Meeting of the Association of American Geographers*. Detroit, USA.
+<br>
+
+`2025`
+**Making the city investable: the State, financial infrastructures and technopolitical powers 1 & 2**
+Session organization (with C. Iacovone). *Annual Meeting of the Association of American Geographers*. Detroit, USA.
+<br>
+
+`2025`
+**Probing ghostly infrastructure**. Workshop organization (with A. Pavoni). *PhD programme in Urban and Regional Development*. Politecnico di Torino, Italy.
+<br>
+
+`2024`
+**Global infrastructure and urbanization**. International workshop organization (with A. Pollio, F. Governa). *Interuniversity Department of Regional and Urban Studies and Planning*, Politecnico di Torino, Italy.
+<br>
+
+`2024`
+**Ressources du sous-sol en tension**. International workshop, member of scientific committee. Université de Savoie Mont Blanc, France
+<br>
+
+`2023`
+**Ressources du sous-sol en tension**. Session organization (with M. Loi, M. Bandiera). *IV Edizione delle Giornate di Studi interdisciplinari “GEOGRAFIA E...” - Geografia e Ecologia Politica*. Milan, Italy.
+<br>
+
+
+
+
 ## Professional memberships
 
 `2022-now`  
 **Global Infrastructure Research Collective**  
-[website](https://albertovalzgris.github.io/globalinfrastructurecollective/)  
+[Website](https://albertovalzgris.github.io/globalinfrastructurecollective/)  
 The Global Infrastructure Research Collective is an international academic network of geographers and urban scholars focusing on global infrastructure initiatives and their urban dimensions. The collective is committed to providing a platform for interdisciplinary research and collaboration and has organized three international workshops in Malmö, Barcelona and Torino alongside several other events.
+
+`2023-now`
+**China Room**  
+[Website](https://chinaroom.polito.it/)  
+China Room is an interdisciplinary laboratory where scholars in the fields of architecture, urbanism, and geography study Chinese urbanization processes and urban transformation related to Global China. China Room also fosters collaboration with institutions and universities to share knowledge and provide mutual understanding on urban and architectural practices.
 
 ## Funding and awards
 
