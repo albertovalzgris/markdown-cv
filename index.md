@@ -120,7 +120,7 @@ A list is also available [online](https://iris.polito.it/browse?type=author&auth
 ### Journal articles
 
 `2025`
-Valz Gris, A. (forthcoming). Ragioni, attori e strumenti della finanziarizzazione delle infrastrutture urbane: una mappatura concettuale. *Rivista Geografica Italiana - Opena Access*
+Valz Gris, A. (forthcoming). Ragioni, attori e strumenti della finanziarizzazione delle infrastrutture urbane: una mappatura concettuale. *Rivista Geografica Italiana - Open Access*
 
 `2025`
 Silvestro, E., Valz Gris, A., Salone, C. (2025). Per una political economy degli hinterland logistici: i regimi territoriali della logistica. *Semestrale di Studi e Ricerche in Geografia*.
