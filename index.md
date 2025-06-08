@@ -347,7 +347,7 @@ Paper presentation. *XV Coloquio de Geocrítica*. Barcelona, Spain.
 
 `2022-now`  
 **Global Infrastructure Research Collective**  
-[website](https://albertovalzgris.github.io/globalinfrastructurecollective/)
+[website](https://albertovalzgris.github.io/globalinfrastructurecollective/)  
 The Global Infrastructure Research Collective is an international academic network of geographers and urban scholars focusing on global infrastructure initiatives and their urban dimensions. The collective is committed to providing a platform for interdisciplinary research and collaboration and has organized three international workshops in Malmö, Barcelona and Torino alongside several other events.
 
 ## Funding and awards
