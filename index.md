@@ -30,7 +30,7 @@ Alberto Valz Gris is a critical urban geographer, currently a Post-doctoral Rese
 ## Education
 
 `2017-2021`
-**Ph.D. in Urban and Regional Development**, Cum laude  
+**PhD in Urban and Regional Development**, Cum laude  
 Thesis: Hinterlands of the Green Transition. Atacama, Lithium and the Extended Geographies of the Zero-emission City  
 *Politecnico di Torino*, Italy
 
@@ -38,18 +38,10 @@ Thesis: Hinterlands of the Green Transition. Atacama, Lithium and the Extended G
 **MA in Fine Arts**  
 *Sandberg Instituut, Amsterdam*, The Netherlands
 
-`2014`
-**Erasmus Thesis Scholarship**  
-*Universitat de Barcelona*, Spain
-
 `2011-2014`
-**Ms.C. in Architecture, Construction, City**, 110/110  
+**MSc in Architecture, Construction, City**, 110/110  
 Thesis: Barcelona's Interstices, Opening up Architectural Practice  
 *Politecnico di Torino*, Italy  
-
-`2011`
-**LLP/Erasmus Semester Scholarship**  
-*École Nationale Supérieure d'Architecture Paris La Villette*, France  
 
 `2009-2012`
 **BA in Architecture Sciences**, 106/110  
@@ -63,12 +55,14 @@ Thesis: Osservare dal Parco. Un Progetto di Trasformazione per il Parco del Meis
 Department of Urban and Regional Studies and Planning (DIST), Politecnico di Torino and University of Sheffield  
 *Post-doctoral research fellow*. Principal investigator: dr. Jonathan Silver  
 A five-year starting grant project commencing in July 2021 funded by the Horizon2020 programme, European Research Council. The project aims to outline the unequal impacts corridor investments are having on people living in cities during rapid urbanization and explore alternatives that might help better address urban inequality and sustainability.
+<br>
 
 `2024-now`
 **The new Italian geographies of logistics**  
 Department of Urban and Regional Studies and Planning (DIST), Politecnico di Torino  
 *Post-doctoral research fellow*. Principal investigator: prof. C. Salone  
 The project focuses on the new spatial articulations of the logistics sector in Italy, assuming that the logistics sector has grown significantly over the last 20 years and that this growth has determined several effects on the spatial organization of various places along the peninsula. 
+<br>
 
 `2023-now`
 **The financialised city? Milano: geografie finanziarie, geopolitica urbana e questione abitativa**  
@@ -78,18 +72,18 @@ This project explores the financialization of urban development, particularly in
 <br>
 
 `2022-2024`
-
 **Rescaling the Belt and Road Initiative**  
 Department of Urban and Regional Studies and Planning (DIST), Politecnico di Torino  
 *Post-doctoral research fellow*. Principal investigator: prof. F. Governa  
 This research program, financed by the PRIN project "Rescaling the Belt and Road Initiative: urbanisation processes, innovation patterns and global investments in urban China", seeks to construct a dialogue between the international debate on Global Urbanism and the urban experience of Southern Europe. Global Urbanism emerges as the attempt to build critical urban knowledge starting from the grounded acknowledgment of differences and their continuous mutations. Through this project, we propose to explore the question of a global urban horizon starting from the specificities and differences of various Southern European urban experiences, hence attempting theory building from peripheral loci. In its initial phases, the program will consist in the critical analysis of existing research, in a selection of three case studies and in their subsequent exploration through short fieldwork periods.
 <br>
 
-`2022-now`
+`2022-2024`
 **Umru: Fragments from the Hydrosocial Cycle of Valle Umbra**  
 Mahler & LeWitt Studios Residency, Spoleto  
 *Geographer in residence*.  
 This project is developed in collaboration with visual artist Cecilia Ceccherini and part of Mahler and LeWitt Studios' Materia program. As a collaborative practice bridging geography with the visual arts, the projects maps an embodied and effective exploration of water assemblages of the Valle Umbra, asking how we might reinvent hydrosocial territories and shape them towards a more conscious and environmentally just future. Working in the form of text, sound and textile, the results of this research will be presented in June 2024 as part of Spoleto's Festival dei Due Mondi through an exhibition and an associated independent publication.
+<br>
 
 `2022`
 **I paesaggi operazionali nel Nord Italia. Geografie mobili, strategie spaziali e mappe dinamiche dell’urbanizzazione regionale**  
@@ -125,11 +119,16 @@ A list is also available [online](https://iris.polito.it/browse?type=author&auth
 
 ### Journal articles
 
+`2025`
+Valz Gris, A. (forthcoming). Ragioni, attori e strumenti della finanziarizzazione delle infrastrutture urbane: una mappatura concettuale. *Rivista Geografica Italiana - Opena Access*
+
+`2025`
+Silvestro, E., Valz Gris, A., Salone, C. (2025). Per una political economy degli hinterland logistici: i regimi territoriali della logistica. *Semestrale di Studi e Ricerche in Geografia*.
+
 `2024`
 Valz Gris, A. (2024). Estrattivismo e urbanizzazione: Diseguaglianze e conflitti nell’ inserimento strategico del Salar de Olaroz. *Rivista Geografica Italiana - Open Access, 3*. [https://doi.org/10.3280/rgioa3-2024oa18428
 ](https://doi.org/10.3280/rgioa3-2024oa18428
 )
-
 
 `2023`
 Valz Gris, A. (2023). Beyond the boom. Genealogies of corridor urbanism in the making of the Lithium Triangle, Argentina and Chile. *Geoforum, 147*, 103913. [https://doi.org/10.1016/j.geoforum.2023.103913
@@ -149,6 +148,12 @@ Iacovone, C., Valz Gris, A., Safina, A., Pollio, A., Governa, F. (2021) Breaking
 Valz Gris, A. (2019) Tangling a bi-oceanic corridor. *Lo Squaderno, 51*, 17-20.
 
 ### Book chapters
+
+`2025`
+Governa, F., Ramondetti, L., Safina, A., Sampieri, A., Valz Gris, A. (in press). Beyond the logistical monolith. Multiplicity and differentiation along the Adriatic Corridor. In Apostolopoulou, E., Cheng, H., Silver, J., Wiig, A. (Eds.), *The Material Geographies of the Belt and Road Initiative* (pp. 261-281). Bristol: Bristol University Press.
+
+`2024`
+Ramondetti, L., Salone, C., Silvestro, E., Valz Gris, A. (2024). Attori e spazi della logistica contemporanea: Alcune considerazioni sulle piattaforme di Rivalta Scrivia e Piacenza e sul Porto di Trieste. In Armondi, S., Di Vita, S., Galimberti, B. (Eds.), *Geografie Operazionali nel Nord Italia: Figurazioni e Strategie Spaziali* (pp.138-148). Roma-Milano: Franco Angeli.
 
 `2020`
 Valz Gris, A. (2020) Logistica e urbanizzazione: Uno sguardo dal corridoio bi-oceanico. In Benvegnù, C., Cuppini, N., Frapporti, M., Milesi, F., Pirone, M. (Eds.), *Logistica e America Latina* (pp.174-182). Bologna: Dipartimento delle Arti, Università di Bologna. [https://doi.org/10.6092/unibo/amsacta/6434](https://doi.org/10.6092/unibo/amsacta/6434)
@@ -357,6 +362,14 @@ The Global Infrastructure Research Collective is an international academic netwo
 
 `2025`
 **Erasmus+ Staff Mobility**
+
+`2014`
+**Erasmus Thesis Scholarship**  
+*Universitat de Barcelona*, Spain
+
+`2011`
+**LLP/Erasmus Semester Scholarship**  
+*École Nationale Supérieure d'Architecture Paris La Villette*, France  
 
 ## Languages
 
