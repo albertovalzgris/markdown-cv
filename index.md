@@ -402,7 +402,7 @@ China Room is an interdisciplinary laboratory where scholars in the fields of ar
 ## Funding and awards
 
 `2025`
-**Erasmus+ Staff Mobility**
+**Erasmus+ Staff Mobility**  
 *Urban Institute, University of Sheffield*, UK
 
 `2014`
