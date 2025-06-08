@@ -430,6 +430,6 @@ China Room is an interdisciplinary laboratory where scholars in the fields of ar
 <br>
 <br>
 
-Last updated: \today
+Last updated: 08/06/2025
 
 
