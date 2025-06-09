@@ -190,7 +190,7 @@ Valz Gris, A., Iacovone, C. (2020) Il virus è un prodotto del Capitalocene. *Ja
 ## Teaching
 
 `2025-now`
-**MSc thesis** 
+**MSc thesis**  
 Politecnico di Milano  
 *Co-supervision*  
 Title: In the shadow of the transition: extended urbanisation of lithium, water struggles, and the contestation in the Brandenburg forest. Student: Jorge Farah Dabed Caceres
