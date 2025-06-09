@@ -190,10 +190,10 @@ Valz Gris, A., Iacovone, C. (2020) Il virus è un prodotto del Capitalocene. *Ja
 ## Teaching
 
 `2025-now`
-**Thesis** - Urbanization, sustainable development and sociospatial conflict: a metabolic analysis of a Chilean mine and a Tesla gigafactory.  
+**MSc thesis** 
 Politecnico di Milano  
-*MSc thesis supervision*  
-Student: Jorge Farah Dabed Caceres  
+*Co-supervision*  
+Title: In the shadow of the transition: extended urbanisation of lithium, water struggles, and the contestation in the Brandenburg forest. Student: Jorge Farah Dabed Caceres
 
 `2024-2025`
 **Economia Urbana**  
@@ -208,10 +208,10 @@ Department of Regional and Urban Studies (DIST), Politecnico di Torino
 Activities completed in this course across several years included guest lectures, students' supervision, the organization of reading seminars and examination.
 
 `2023`
-**Thesis** - Metabolismo socio-naturale e regimi urbani: la produzione di socio-natura urbanizzata tra immaginari geografici e materialità  
+**MSc thesis**  
 Università di Torino  
-*MSc thesis supervision*  
-Student: Stella De Luca
+*Co-supervision*  
+Title: Metabolismo socio-naturale e regimi urbani: la produzione di socio-natura urbanizzata tra immaginari geografici e materialità. Un’analisi di un caso studio delle Valli Orco e Soana. Student: Stella De Luca
 
 `2022-2023`
 **Socially Engaged Art Winter Project**  
