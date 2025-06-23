@@ -8,7 +8,7 @@ title: albertovalzgris
 
 <div id="webaddress">
 <a href="alberto.valzgris@polito.it">alberto.valzgris@polito.it</a>
-| <a href="https://twitter.com/albertovalzgris">Twitter</a> | <a href="https://linktr.ee/albertovalzgris">Linktree </a> </div> 
+<!--| <a href="https://twitter.com/albertovalzgris">Twitter</a> | <a href="https://linktr.ee/albertovalzgris">Linktree </a>--> </div> 
 
 <!--Updates
 
