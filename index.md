@@ -318,19 +318,9 @@ Paper presentation. *The 10th East Asian Regional Conference in Alternative Geog
 Workshop presentation. *Comparative dialogues on the infrastructure-led urbanization of Global China*. Malmö, Sweden.
 <br>
 
-`2022`
-**Infrastructural afterlives. Genealogies of corridor urbanism in the making of the Lithium Triangle**  
-Invited seminar. *Urbanism + Landscape Week 2022 - Calibrating Thresholds*. Delft, The Netherlands.
-<br>
-
 `2021`
 **Hinterlands of the Green Transition**  
 Paper presentation. *EXALT Conference 2021 - Concurrent Crises and Sustainable Futures: Global Extractivisms and Alternatives*. Helsinki, Finland (online).
-<br>
-
-`2021`
-**Atacama: le infrastrutture della città a zero emissioni**  
-Invited seminar. *Spazi di contaminazione- Seminari di geografia critica*. University of Bologna, Italy (online).
 <br>
 
 `2020`
@@ -346,11 +336,6 @@ Paper presentation. *RGS-IBG 2020: On methods of thing-following*. London, UK (c
 `2020`
 **Development at the big finance-microfinance nexus: a political ecology of the Cauchari Solar plant, Argentina**  
 Paper presentation. *NECS 2020: Transitions: Moving Images and Bodies*. Palermo, Italy (canceled due to covid-19 pandemic).
-<br>
-
-`2020`
-**Lithium: Exploring the frontiers of urbanization**  
-Invited seminar. *Department of the Arts, Alma Mater Studiorum*. Bologna, Italy.
 <br>
 
 `2019`
@@ -412,6 +397,21 @@ China Room is an interdisciplinary laboratory where scholars in the fields of ar
 `2024`
 **Ressources du sous-sol en tension**  
 International workshop, member of scientific committee. Université de Savoie Mont Blanc, France
+<br>
+
+`2022`
+**Infrastructural afterlives. Genealogies of corridor urbanism in the making of the Lithium Triangle**  
+Invited seminar. *Urbanism + Landscape Week 2022 - Calibrating Thresholds*. Delft, The Netherlands.
+<br>
+
+`2021`
+**Atacama: le infrastrutture della città a zero emissioni**  
+Invited seminar. *Spazi di contaminazione- Seminari di geografia critica*. University of Bologna, Italy (online).
+<br>
+
+`2020`
+**Lithium: Exploring the frontiers of urbanization**  
+Invited seminar. *Department of the Arts, Alma Mater Studiorum*. Bologna, Italy.
 <br>
 
 ## Funding and awards
