@@ -10,6 +10,15 @@ title: albertovalzgris
 <a href="alberto.valzgris@polito.it">alberto.valzgris@polito.it</a>
 | <a href="https://twitter.com/albertovalzgris">Twitter</a> | <a href="https://linktr.ee/albertovalzgris">Linktree </a> </div> 
 
+<!--Updates
+
++ Other research activites
+	+ Umru
+	+ Cittadella di Alessandria
++ Conferenze su invito
+	+ Ressources du sous-sol en tension
+-->
+
 ## Currently
 
 **Post-doctoral Research Fellow**  
@@ -78,13 +87,6 @@ Department of Urban and Regional Studies and Planning (DIST), Politecnico di Tor
 This research program, financed by the PRIN project "Rescaling the Belt and Road Initiative: urbanisation processes, innovation patterns and global investments in urban China", seeks to construct a dialogue between the international debate on Global Urbanism and the urban experience of Southern Europe. Global Urbanism emerges as the attempt to build critical urban knowledge starting from the grounded acknowledgment of differences and their continuous mutations. Through this project, we propose to explore the question of a global urban horizon starting from the specificities and differences of various Southern European urban experiences, hence attempting theory building from peripheral loci. In its initial phases, the program will consist in the critical analysis of existing research, in a selection of three case studies and in their subsequent exploration through short fieldwork periods.
 <br>
 
-`2022-2024`
-**Umru: Fragments from the Hydrosocial Cycle of Valle Umbra**  
-Mahler & LeWitt Studios Residency, Spoleto  
-*Geographer in residence*.  
-This project is developed in collaboration with visual artist Cecilia Ceccherini and part of Mahler and LeWitt Studios' Materia program. As a collaborative practice bridging geography with the visual arts, the projects maps an embodied and effective exploration of water assemblages of the Valle Umbra, asking how we might reinvent hydrosocial territories and shape them towards a more conscious and environmentally just future. Working in the form of text, sound and textile, the results of this research will be presented in June 2024 as part of Spoleto's Festival dei Due Mondi through an exhibition and an associated independent publication.
-<br>
-
 `2022`
 **I paesaggi operazionali nel Nord Italia. Geografie mobili, strategie spaziali e mappe dinamiche dell’urbanizzazione regionale**  
 Department of Architecture and Urban Studies (DAStU), Politecnico di Milano  
@@ -104,6 +106,15 @@ The project forms part of the activities financed by the PRIN project Rescaling 
 Department of Urban and Regional Studies and Planning (DIST), Politecnico di Torino  
 *Ph.D. candidate*. Tutor: prof. F. Governa  
 This doctoral dissertation project explores the dynamics of lithium extraction on the Atacama plateau as an analytical move to understand flows of urban metabolism between cities and hinterlands at the planetary scale. Combining theoretical frameworks from the areas of critical urban studies, economic geography and urban political ecology, the project deepens our understanding of the persisting extractivism of urban green transitions. This argument has been developed through the deployment of ethnographic fieldwork in Argentina and Chile, document and cartographic analysis and visual methodologies. The completion of the project has involved autonomous research design, the organization and fulfillment of international fieldwork and a sustained program of discussion in international conferences and seminaries.  
+<br>
+
+## Non-academic research
+
+`2022-2024`
+**Umru: Fragments from the Hydrosocial Cycle of Valle Umbra**  
+Mahler & LeWitt Studios Residency, Spoleto  
+*Geographer in residence*.  
+This project is developed in collaboration with visual artist Cecilia Ceccherini and part of Mahler and LeWitt Studios' Materia program. As a collaborative practice bridging geography with the visual arts, the projects maps an embodied and effective exploration of water assemblages of the Valle Umbra, asking how we might reinvent hydrosocial territories and shape them towards a more conscious and environmentally just future. Working in the form of text, sound and textile, the results of this research will be presented in June 2024 as part of Spoleto's Festival dei Due Mondi through an exhibition and an associated independent publication.
 <br>
 
 `2017`
@@ -169,7 +180,7 @@ Valz Gris, A. (2023) Frontiere della Transizione Energetica. Un database cartogr
 ### Conference proceedings
 
 `2024`
-Bandiera, M., Loi, M., & Valz Gris, A. (forthcoming). Racconti dai margini dell’urbanizzazione: Appunti per una geografia ruderale. In IV Edizione delle Giornate di Studi interdisciplinari “GEOGRAFIA E...” - *Geografia e Ecologia Politica, Milano*.
+Bandiera, M., Loi, M., & Valz Gris, A. (2024). Racconti dai margini dell’urbanizzazione: Appunti per una geografia ruderale. In IV Edizione delle Giornate di Studi interdisciplinari “GEOGRAFIA E...” - *Geografia e Ecologia Politica, Milano*.
 
 `2022`
 Valz Gris, A. (2022) Il paesaggio operazionale del Salar de Olaroz (Argentina): Diseguaglianze e conflitti spaziali delle catene globali del valore. In Amato, F., Amato, V., de Falco, S. La Foresta, D. Simonetti, L. (Eds.), *Catene/Chains, Memorie Geografiche, 21*, 43-48.
@@ -379,11 +390,6 @@ Workshop organization (with A. Pavoni). *PhD programme in Urban and Regional Dev
 International workshop organization (with A. Pollio, F. Governa). *Interuniversity Department of Regional and Urban Studies and Planning*, Politecnico di Torino, Italy.
 <br>
 
-`2024`
-**Ressources du sous-sol en tension**  
-International workshop, member of scientific committee. Université de Savoie Mont Blanc, France
-<br>
-
 `2023`
 **Racconti dai margini dell'urbanizzazione**  
 Session organization (with M. Loi, M. Bandiera). *IV Edizione delle Giornate di Studi interdisciplinari “GEOGRAFIA E...” - Geografia e Ecologia Politica*. Milan, Italy.
@@ -398,8 +404,15 @@ The Global Infrastructure Research Collective is an international academic netwo
 
 `2023-now`
 **China Room**  
-[chinaromm.polito.it](https://chinaroom.polito.it/)  
+[chinaroom.polito.it](https://chinaroom.polito.it/)  
 China Room is an interdisciplinary laboratory where scholars in the fields of architecture, urbanism, and geography study Chinese urbanization processes and urban transformation related to Global China. China Room also fosters collaboration with institutions and universities to share knowledge and provide mutual understanding on urban and architectural practices.
+
+## Invited academic activities
+
+`2024`
+**Ressources du sous-sol en tension**  
+International workshop, member of scientific committee. Université de Savoie Mont Blanc, France
+<br>
 
 ## Funding and awards
 
