@@ -108,7 +108,7 @@ Department of Urban and Regional Studies and Planning (DIST), Politecnico di Tor
 This doctoral dissertation project explores the dynamics of lithium extraction on the Atacama plateau as an analytical move to understand flows of urban metabolism between cities and hinterlands at the planetary scale. Combining theoretical frameworks from the areas of critical urban studies, economic geography and urban political ecology, the project deepens our understanding of the persisting extractivism of urban green transitions. This argument has been developed through the deployment of ethnographic fieldwork in Argentina and Chile, document and cartographic analysis and visual methodologies. The completion of the project has involved autonomous research design, the organization and fulfillment of international fieldwork and a sustained program of discussion in international conferences and seminaries.  
 <br>
 
-## Non-academic research
+## Other research
 
 `2022-2024`
 **Umru: Fragments from the Hydrosocial Cycle of Valle Umbra**  
