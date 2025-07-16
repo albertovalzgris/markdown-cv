@@ -134,26 +134,24 @@ A list is also available [online](https://iris.polito.it/browse?type=author&auth
 Valz Gris, A. (forthcoming). Ragioni, attori e strumenti della finanziarizzazione delle infrastrutture urbane: una mappatura concettuale. *Rivista Geografica Italiana - Open Access*
 
 `2025`
-Silvestro, E., Valz Gris, A., Salone, C. (2025). Per una political economy degli hinterland logistici: i regimi territoriali della logistica. *Semestrale di Studi e Ricerche in Geografia*.
+Silvestro, E., Valz Gris, A., & Salone, C. (2025). Per una political economy degli hinterland logistici: I regimi territoriali della logistica. *Semestrale di studi e ricerche di geografia, 1*, 143-159. [DOI: 10.13133/2784-9643/18916](https://doi.org/10.13133/2784-9643/18916)
+
 
 `2024`
-Valz Gris, A. (2024). Estrattivismo e urbanizzazione: Diseguaglianze e conflitti nell’ inserimento strategico del Salar de Olaroz. *Rivista Geografica Italiana - Open Access, 3*. [https://doi.org/10.3280/rgioa3-2024oa18428
-](https://doi.org/10.3280/rgioa3-2024oa18428
+Valz Gris, A. (2024). Estrattivismo e urbanizzazione: Diseguaglianze e conflitti nell’ inserimento strategico del Salar de Olaroz. *Rivista Geografica Italiana - Open Access, 3*, 31.52. [DOI: 10.3280/rgioa3-2024oa18428](https://doi.org/10.3280/rgioa3-2024oa18428
 )
 
 `2023`
-Valz Gris, A. (2023). Beyond the boom. Genealogies of corridor urbanism in the making of the Lithium Triangle, Argentina and Chile. *Geoforum, 147*, 103913. [https://doi.org/10.1016/j.geoforum.2023.103913
-](https://doi.org/10.1016/j.geoforum.2023.103913)
+Valz Gris, A. (2023). Beyond the boom. Genealogies of corridor urbanism in the making of the Lithium Triangle, Argentina and Chile. *Geoforum, 147*, 103913. [DOI: 10.1016/j.geoforum.2023.103913](https://doi.org/10.1016/j.geoforum.2023.103913)
 
 `2022`
-Valz Gris, A. (2022). Cosco e l’urbanizzazione «turbolenta» del porto del Pireo. *Territorio, 103*, 31–36. [https://doi.org/10.3280/TR2023-103003
-](https://doi.org/10.3280/TR2023-103003)
+Valz Gris, A. (2022). Cosco e l’urbanizzazione «turbolenta» del porto del Pireo. *Territorio, 103*, 31–36. [DOI: 10.3280/TR2023-103003](https://doi.org/10.3280/TR2023-103003)
 
 `2022`
-Valz Gris, A., Iacovone, C., Safina, A., Pollio, A., Governa, F. (2022) Il 'campo' geografico di un'etnografia sottile. *Rivista Geografica Italiana - Open Access, 1*(1), 5-31. [https://doi.org/10.3280/rgioa1-2022oa13364](https://doi.org/10.3280/rgioa1-2022oa13364)
+Valz Gris, A., Iacovone, C., Safina, A., Pollio, A., Governa, F. (2022) Il 'campo' geografico di un'etnografia sottile. *Rivista Geografica Italiana - Open Access, 1*(1), 5-31. [DOI: 10.3280/rgioa1-2022oa13364](https://doi.org/10.3280/rgioa1-2022oa13364)
 
 `2020`
-Iacovone, C., Valz Gris, A., Safina, A., Pollio, A., Governa, F. (2021) Breaking the distance: Dialogues of care in a time of limited geographies. *Dialogues in Human Geography, 10*(2), 124-127. [https://doi.org/10.1177/2043820620934940](https://doi.org/10.1177/2043820620934940)
+Iacovone, C., Valz Gris, A., Safina, A., Pollio, A., Governa, F. (2021) Breaking the distance: Dialogues of care in a time of limited geographies. *Dialogues in Human Geography, 10*(2), 124-127. [DOI: 10.1177/2043820620934940](https://doi.org/10.1177/2043820620934940)
 
 `2019`
 Valz Gris, A. (2019) Tangling a bi-oceanic corridor. *Lo Squaderno, 51*, 17-20.
@@ -167,7 +165,7 @@ Governa, F., Ramondetti, L., Safina, A., Sampieri, A., Valz Gris, A. (in press).
 Ramondetti, L., Salone, C., Silvestro, E., Valz Gris, A. (2024). Attori e spazi della logistica contemporanea: Alcune considerazioni sulle piattaforme di Rivalta Scrivia e Piacenza e sul Porto di Trieste. In Armondi, S., Di Vita, S., Galimberti, B. (Eds.), *Geografie Operazionali nel Nord Italia: Figurazioni e Strategie Spaziali* (pp.138-148). Roma-Milano: Franco Angeli.
 
 `2020`
-Valz Gris, A. (2020) Logistica e urbanizzazione: Uno sguardo dal corridoio bi-oceanico. In Benvegnù, C., Cuppini, N., Frapporti, M., Milesi, F., Pirone, M. (Eds.), *Logistica e America Latina* (pp.174-182). Bologna: Dipartimento delle Arti, Università di Bologna. [https://doi.org/10.6092/unibo/amsacta/6434](https://doi.org/10.6092/unibo/amsacta/6434)
+Valz Gris, A. (2020) Logistica e urbanizzazione: Uno sguardo dal corridoio bi-oceanico. In Benvegnù, C., Cuppini, N., Frapporti, M., Milesi, F., Pirone, M. (Eds.), *Logistica e America Latina* (pp.174-182). Bologna: Dipartimento delle Arti, Università di Bologna. [DOI: 10.6092/unibo/amsacta/6434](https://doi.org/10.6092/unibo/amsacta/6434)
 
 `2019`
 Valz Gris, A. (2019) Appunti su città e piattaforma. Dentro e oltre la metafora. In *Il Campo di Battaglia Urbano* (pp. 95-103). Roma: Red Star Press.
@@ -175,7 +173,7 @@ Valz Gris, A. (2019) Appunti su città e piattaforma. Dentro e oltre la metafora
 ### Datasets
 
 `2023`
-Valz Gris, A. (2023) Frontiere della Transizione Energetica. Un database cartografico sui permessi di ricerca per materie prime critiche in Italia. (1.0.0) [Data set]. [frontieredellatransizione.it](http://frontieredellatransizione.it/), [https://doi.org/10.5281/zenodo.10058425](https://doi.org/10.5281/zenodo.10058425)
+Valz Gris, A. (2023) Frontiere della Transizione Energetica. Un database cartografico sui permessi di ricerca per materie prime critiche in Italia. (1.0.0) [Data set]. [frontieredellatransizione.it](http://frontieredellatransizione.it/), [DOI: 10.5281/zenodo.10058425](https://doi.org/10.5281/zenodo.10058425)
 
 ### Conference proceedings
 
@@ -191,7 +189,7 @@ Valz Gris, A. (2018) Lavoro, spazio, movimenti. Mobilitare l'urbano dentro e olt
 ### Book reviews
 
 `2020`
-Valz Gris, A. (2020) City air beyond the city: Can the planetary mine lead us to emancipatory urban futures? *City, 24*(5-6), 865–870. [https://doi.org/10.1080/13604813.2020.1833547](https://doi.org/10.1080/13604813.2020.1833547)
+Valz Gris, A. (2020) City air beyond the city: Can the planetary mine lead us to emancipatory urban futures? *City, 24*(5-6), 865–870. [DOI: 10.1080/13604813.2020.1833547](https://doi.org/10.1080/13604813.2020.1833547)
 
 ### Public writing
 
